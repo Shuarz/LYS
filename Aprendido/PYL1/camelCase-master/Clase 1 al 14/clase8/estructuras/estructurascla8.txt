@@ -1,0 +1,53 @@
+declarar cada auxiliar por cada vector
+con estructuras creamos una estructuras de datos custumizados
+
+
+las estructuras se delcaran furea del main y van a parar en el punt h (header)
+
+que hace el sizeof?
+
+como pasar la direccio n de memroia
+
+&miAlimno.legajo
+
+para el char no hace falta el &
+
+miAlimno.nombre
+
+&miAlimno.altura
+
+LAS ESTRUCTURAS SE PASA POR VALOR
+
+
+podria haver funciones para cargar y mostrar las funciones
+
+
+
+funviones en biblotecas
+
+poner el include y poner adntreo lo que necesita
+
+
+para una busqueda de maximo y minmio hago
+ una busqueda del maximo y minimo
+ y despues
+ una busqueda porr maximo y inimo
+
+para hacer una modoficacion
+ 
+ 1 pedir legajo
+ 2 buscar el legajo (if si lo encueta lo modifica(pido la nota(ingrese la nueva nota))) y sino, error
+ 
+para mañana carga aleatoria con la secuancial
+
+
+
+
+
+
+
+
+
+
+
+hacer swap para la tarea de l otro dia

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537206777 source:c:\users\alumno\desktop\camelcase\clase8\estructuras\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+
+1537206877 c:\users\alumno\desktop\camelcase\clase8\estructuras\alumno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

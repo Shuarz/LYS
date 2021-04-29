@@ -1,0 +1,1 @@
+llama la funcion de pedir numero y despues la que llamo a esa funcion le asiga el valor de area que deespues usa para mostrar el resultado

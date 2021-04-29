@@ -1,0 +1,196 @@
+# depslib dependency file v1.0
+1538492396 source:d:\parcial lab 1 rouaux\archivopeliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1538491388 d:\parcial lab 1 rouaux\archivopeliculas\peliculas.h
+
+1538492243 source:d:\parcial lab 1 rouaux\archivopeliculas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1538947948 source:c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"peliculas.h"
+	"directores.h"
+
+1538947876 c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\peliculas.h
+
+1538947877 source:c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"validaciones.h"
+
+1538923407 source:c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\validaciones.c
+
+1538923407 c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\validaciones.h
+
+1538947877 c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\directores.h
+
+1538948066 source:c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directores.h"
+	"peliculas.h"
+
+1539010043 source:c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directores.h"
+	"peliculas.h"
+
+1539010043 c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\directores.h
+
+1539009787 c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\peliculas.h
+
+1539010801 source:c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"peliculas.h"
+	"directores.h"
+
+1539011027 source:c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"directores.h"
+
+1538999106 c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\validaciones.h
+
+1538999106 source:c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\validaciones.c
+
+1539526280 source:c:\users\sanro\onedrive\escritorio\parcial lab\parcial-lab-1\archivopeliculas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1539722373 source:c:\users\sanro\onedrive\escritorio\parcial lab\parcial-lab-1\archivopeliculas\directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directores.h"
+	"validaciones.h"
+
+1539722373 c:\users\sanro\onedrive\escritorio\parcial lab\parcial-lab-1\archivopeliculas\directores.h
+
+1539722293 source:c:\users\sanro\onedrive\escritorio\parcial lab\parcial-lab-1\archivopeliculas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"validaciones.h"
+
+1539722293 c:\users\sanro\onedrive\escritorio\parcial lab\parcial-lab-1\archivopeliculas\peliculas.h
+
+1539723788 source:c:\users\sanro\onedrive\escritorio\parcial lab\parcial-lab-1\archivopeliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"directores.h"
+	"menuOpciones.h"
+	"validaciones.h"
+
+1539521946 c:\users\sanro\onedrive\escritorio\parcial lab\parcial-lab-1\archivopeliculas\menuopciones.h
+
+1539723740 source:c:\users\sanro\onedrive\escritorio\parcial lab\parcial-lab-1\archivopeliculas\menuopciones.c
+	<stdio.h>
+	<stdlib.h>
+	"menuOpciones.h"
+
+1539483387 c:\users\sanro\onedrive\escritorio\parcial lab\parcial-lab-1\archivopeliculas\validaciones.h
+
+1543267896 source:c:\users\sanro\onedrive\escritorio\parcial-lab-1\archivopeliculas\directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directores.h"
+	"validaciones.h"
+
+1543268008 c:\users\sanro\onedrive\escritorio\parcial-lab-1\archivopeliculas\directores.h
+
+1543269941 c:\users\sanro\onedrive\escritorio\parcial-lab-1\archivopeliculas\validaciones.h
+
+1543269141 source:c:\users\sanro\onedrive\escritorio\parcial-lab-1\archivopeliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"directores.h"
+	"menuOpciones.h"
+	"validaciones.h"
+
+1543268008 c:\users\sanro\onedrive\escritorio\parcial-lab-1\archivopeliculas\peliculas.h
+
+1543260966 c:\users\sanro\onedrive\escritorio\parcial-lab-1\archivopeliculas\menuopciones.h
+
+1543260966 source:c:\users\sanro\onedrive\escritorio\parcial-lab-1\archivopeliculas\menuopciones.c
+	<stdio.h>
+	<stdlib.h>
+	"menuOpciones.h"
+
+1543269872 source:c:\users\sanro\onedrive\escritorio\parcial-lab-1\archivopeliculas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"validaciones.h"
+
+1543269445 source:c:\users\sanro\onedrive\escritorio\parcial-lab-1\archivopeliculas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1543288115 source:d:\users\usuario\descargas\primer-parcial-lab1-master\archivopeliculas\directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directores.h"
+	"validaciones.h"
+
+1543288115 d:\users\usuario\descargas\primer-parcial-lab1-master\archivopeliculas\directores.h
+
+1543288115 d:\users\usuario\descargas\primer-parcial-lab1-master\archivopeliculas\validaciones.h
+
+1543288115 source:d:\users\usuario\descargas\primer-parcial-lab1-master\archivopeliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"directores.h"
+	"menuOpciones.h"
+	"validaciones.h"
+
+1543288115 d:\users\usuario\descargas\primer-parcial-lab1-master\archivopeliculas\peliculas.h
+
+1543288115 d:\users\usuario\descargas\primer-parcial-lab1-master\archivopeliculas\menuopciones.h
+
+1543288115 source:d:\users\usuario\descargas\primer-parcial-lab1-master\archivopeliculas\menuopciones.c
+	<stdio.h>
+	<stdlib.h>
+	"menuOpciones.h"
+
+1543288115 source:d:\users\usuario\descargas\primer-parcial-lab1-master\archivopeliculas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"validaciones.h"
+
+1543288115 source:d:\users\usuario\descargas\primer-parcial-lab1-master\archivopeliculas\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+

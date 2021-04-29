@@ -1,0 +1,11 @@
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\SobrecargaTest\obj\Debug\SobrecargaTest.csprojAssemblyReference.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\SobrecargaTest\obj\Debug\SobrecargaTest.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\SobrecargaTest\bin\Debug\SobrecargaTest.exe.config
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\SobrecargaTest\bin\Debug\SobrecargaTest.exe
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\SobrecargaTest\bin\Debug\SobrecargaTest.pdb
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\SobrecargaTest\obj\Debug\SobrecargaTest.exe
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\SobrecargaTest\obj\Debug\SobrecargaTest.pdb
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\SobrecargaTest\obj\Debug\SobrecargaTest.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\SobrecargaTest\obj\Debug\SobrecargaTest.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\SobrecargaTest\obj\Debug\SobrecargaTest.exe
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\SobrecargaTest\obj\Debug\SobrecargaTest.pdb

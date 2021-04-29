@@ -1,0 +1,222 @@
+                                                                           CLASE 8
+QUE ES GIT? 
+
+-parte de la necesidad del desarrollo del kernel no dependo de medio fisico para tener mi software o proyecto, queda siempre en internet , se soluciona con git
+ permite mantener ese kernel que es mucho codigo y que tambien lo pueda subir cualquier desarrollador.
+
+La interfaz de github es comoda , veloz. 
+
+
+El repositorio que creamos tiene control total , git no necesita sobrecarga o demora de red para hacer algo
+excepto cuando subimos o descargamos info , si lo hacemos de forma local no pasa nada.
+
+tenmos todas las referencias en nuestro repositorio local , HASH , si subimos archivos sin ese hash , nos tira un error
+y podemos cambiarlo
+
+Vamos a teenr todo localmente gracias al git init , no esta en la web solo en nuestra maquina
+
+-mkdir github
+
+-cd github
+
+-dir
+
+-git init
+
+-cd .git ->  carpeta oculta
+
+-git status  -> sirve para saber si estamos parados en el repositorio correcto 
+
+-Agarramos la carpeta github y la arrastramos a el sublime text
+
+-creamos en el sublime text el archivo "index.html" y lo metemos en la carpeta de github
+
+-git status -> nos aparece el index.html en ROJO 
+
+(Estamos en el sector de TRABAJO)
+
+-git add . ->lo agregamos en un lugar "preparado" para guardar
+
+(luego del git add . hay un cambio de estado de toda la ingenieria que nos marca que hubo un cambio en el archivo , este comando me saca de dodne estaba
+ y vuelca la info antes de poder subirlo o guardarlo en mi repositorio web ahora pasamos al sector donde ya lo GUARDE).
+
+-git status -> aparece el archivo en VERDE .
+
+-creamos un nuevo archivo funciones.js 
+
+-hacemos git add . para agregarlo
+
+-Ahora lo vamos a BAJAR a nuestro repositorio LOCAL antes de subirlo al web
+
+-git commit -m "primer commit"
+
+-git status -> nada para comentar , en este punto volvimos al primer momento y se toman los datos
+
+-git log -> muestra info
+
+
+-Vamos a github y creamos un repositorio llamado "EjemploGithub".
+
+-Creamos una carpeta ALMISMO NIVEL  que la carpeta "github" que se llame "githubweb".
+
+-hacemos un git status en la githubweb y sale error porque todavia no tiene un ".git"
+
+-git clone  "link de la pagina"
+          
+- cd ejemploGithub -> y ahora git status
+
+-Cremaos un "index.html" que tenga nuestro nombre y apellido y lo guardamos dentro de "EjemploGithub" (carpeta que clonamos)
+
+*************************************************************************************************************
+Hasta ahora es todo lo mismo tanto para el repositorio local como para el que clonamos de la pagina de github
+*************************************************************************************************************
+
+-git config --list 
+
+-ABRIMOS OTRA CONSOLA , LA OTRA LA DEJAMOS ABIERTA 
+
+- en la nueva consola vamos a la carpeta de "github"(la local), en las dos consolas vamos a tirar el codigo git config --list
+  y la diferencia que encontramos son :
+   *El de la pagina tiene el "remote" y el "branchmaster" y el local nop
+
+- en el repo local ponemos "git config --global user.name "emanuelvillamayor"
+
+-git config user.name   -> nos meuestra quien es el admin.
+
+-vamos a la otra consola y dentro de la carpeta clona hacemos git config user.name y nos devuelve el nombre nuestro porque anteriormente lo hciimos "GLOBAL "
+ al usuario.
+
+-git push origin master (en la clonada) y nos registramos .
+
+********************************************************************************************
+LOS COMMIT SON LOS QUE PERMITEN HACER LOS OBJETIVOS O CAMBIOS IMPORTANTES EN VEZ DE LOS ADD 
+********************************************************************************************
+
+-ahora vamos a subir la info en el repositorio de un compañero.
+
+-creamos archivo "Emanuelvillamayor.js" y lo guardamos dentro de la carpeta clonada
+
+-cuando hacemos el commit nos pide que ingresemos el email y usuario , luego nos permite hacer el push origin master
+
+**********************************************************************************************************
+- git config user.name -> ahora nos muestra como usuario el que tenemos en githbu en vez del local de antes
+**********************************************************************************************************
+-git config user.email -> nos muestra el email de github
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> bcc21c059b301021a0b8660667fb0501e89e2f22
+-creamos otra carpeta al mismo nivel llamada "githubotro"
+
+-vamos a intentar clonar los repositorios de nuestros amigos , para esto tenemos que pedirle la direccion
+
+-dentro de githubotro hacemos el gitclone de nuestro amigo
+
+-Vamos a actualizar repositorio de "lider de equipo" que es al que le clonamos , yo lider de equipo le tengo que dar autorizacion
+ al otro usuario para que pueda subir
+
+
+-Cuando voy a subir un nuevo commit a otra carpeta de un amigo nos tira error porque no somos el usuario
+ "fatal: Authentication failed"
+
+
+-ahora entramos a github y le damos permisos de COLABOR a nuestro siervo a nuestro archivo
+ esto envia un link al mail de el lider y lo tiene que aceptar para darnos permisos para poder controlar
+ ese repositorio
+
+
+-creo el archivo de texto ".gitignore" y adentro le escribo los archivos que quiero que ignore como por ejemplo
+ *.png 
+ *.jpg 
+
+-luego cuando hagamos git status los archivos con esta extension no van a aparecder
+
+
+
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> bcc21c059b301021a0b8660667fb0501e89e2f22
+git diff -> muestra  la diferencia entre working are y commit area , es decir muestra los que esta sin confirmar
+             y lo que esta confirmado , solo nos muestra diferencia entre working area y stagin area
+
+git remote -v ->
+
+
+Vanis a crear nueva rama:
+
+-para nuevo tipo de persona
+  
+-RAMA testing , rama desarrollo webb , ramas etc y darsela a distintas personas
+puede hacer solo darle permiso sobre un brunch especifico , el dueño lo va a juntar todo en el master principal.
+
+
+-CREAMOS NUEVO BRUNCH:
+
+<<<<<<< HEAD
+-git branch nuevaRama -> crea rama 
+ 
+-git branch (solo eso se donde estoy parado).
+=======
+-git branch nuevaRama -> crea rama
+>>>>>>> bcc21c059b301021a0b8660667fb0501e89e2f22
+
+-git checkout nuevaRama -> esto me hace cambiar de rama 
+
+-git branch -> verifica en donde estoy
+
+
+- git chekout -b otraRama    -> hace crear la rama y pararme sobre la roma es como tirar el git branch y luego el git chekout al mismo tiempo
+
+-agregamos un nuevo archivo
+
+-hacemos un git push origin master y ahora ese archivor se va a subir en la rama que estaba primero es la de "nuevaRama"
+
+*******************************************************************************************
+-hacemos git pull origin nuevaRama se subo a la nueva rama que hice el commit
+-cuando el lider entre a su github va a "branch" y ahi le van a aparecer las cosas que crea
+******************************************************************************************
+
+-git diff master nuevaRama.   -> nos dice la diferencia entre uno y otro brunch , es decir entre master y nueva rama , lo unico que cambia es solo el txt que agregamos.
+
+
+-git merge  -> toma de un branch y lo mete en otro branch , ejemplo tengo dos listados de alumnos y hay que juntarlos y no juntar los que se repiten, cuando se juntan 
+               uno tiene que estar una sola vez.
+                  si tengo dos branch y ninguno se piso anda bien , ahora si tengo dos misma funciones y se modifican , el branch no sabe que hacer
+                  definimos cual es el que tiene los mejores.         
+       
+
+-NO SE PUEDE SALIR DE UNA RAMA , SIEMPRE TENEMOS QUE IR A OTRA
+
+-git checkout master (ponemos como principal a la rama master)
+
+-git merge nuevaRama
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> bcc21c059b301021a0b8660667fb0501e89e2f22
+-git push origin master 
+
+-ahora mando el archvio al master que antes estaba en el branch , ahora esta en ambos , el link tambien tiene el master .
+  si vuelvo a nuevaRama y cambio el archvio , el archivo del master sigue igual hasta que no hagamos el MERGE
+
+-el problema esta cuando el del master modifica algun archivo de adentro y lo guardamos como cambio desde la web
+<<<<<<< HEAD
+ 
+=======
+>>>>>>> bcc21c059b301021a0b8660667fb0501e89e2f22
+
+-git pull , actualiza la ultima version de nuestro repositorio.
+
+
+<<<<<<< HEAD
+-git Checkout vas saltando entre rama y rama y van apareciendo los distintos archivos
+
+
+
+=======
+>>>>>>> bcc21c059b301021a0b8660667fb0501e89e2f22
+

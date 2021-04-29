@@ -1,0 +1,6 @@
+pasos para agregar collab:
+ir al repo > settings > collaborators > tipear user o email
+https://stackoverflow.com/questions/7920320/adding-a-collaborator-to-my-free-github-account
+
+saber cuando pullear:
+https://stackoverflow.com/questions/7920320/adding-a-collaborator-to-my-free-github-account

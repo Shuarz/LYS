@@ -1,0 +1,16 @@
+si quiero una cedena de carateres necetiso un vecot de char
+
+
+
+ejercicio
+
+nombre 20 carecteres
+apellido
+apellidoynombre;
+
+ejemplo juan carlos
+apellido gomez
+apellidoynombre: gomez, juan carlos 
+(las letra primero mayusculas y el apellido adelante con espacio y coma y despues nonbre
+
+mañama parcial de vectores y cedenas

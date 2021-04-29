@@ -1,0 +1,462 @@
+--Clase 1
+
+Lenguaje de ensamblado: Primer nivel de abstracciòn. Assembler.
+
+Aplicacion compilada / Aplicacion interpretada
+
+Lenguajes interpretados Y compilados. Partes genèricas. (Lenguajes intermedios)
+Ejemplo: Java. El usuario debe descargar primero la "base" (Java en sì). La aplicaciòn se executa mediante 
+el "mini-compilador" instalado en el sistema (Que se encarga de compilar segùn el sistema).
+
+Consola Linux: (Similar a la consola de Windows, distintos comandos)
+
+https://www.osboxes.org/
+
+https://www.raspberrypi.org/downloads/raspbian/
+
+Distros: deepin - Cali - santoku - parrot
+
+;----------------------------------------------------------------------------------
+
+--Clase 2
+
+Arquitecturas de microprocesadores.
+
+Linea de comandos. UNIX = LINUX
+Unix corre en los grandes servidores. (Muy robusto, multitarea, multiusuario)
+Interprete de lineas de comando (Shell)
+Kernel -> Interfaz gráfica -> librerias -> Dos tipos de aplicaciones: 
+- Preinstaladas que ejecutan lineas de comando (Creacion de carpetas, por ejemplo)
+  llamados "utilitarios", es decir, son necesarios para el correcto funcionamiento del sistema operativo.
+- Aplicativos varios: Se utilizan para distintas cosas (Apps instaladas por el usuario, por ejemplo, un antivirus, un reproductor de video, etc).
+
+
+/: Inicio del arbol de directorios o "Root". Esto no quiere decir que sea el disco rígido.
+~: Dentro de mi usuario, tengo derechos.
+
+Comandos de consola de Linux:
+man: manual. 
+man man (Manual del manual)
+clear: Limpia la pantalla de la consola.
+ls (list): Lista elementos (subdirectorios indicado).
+pwd: (Print working directory)
+CD: <directorio> change directory
+mkdir: Crear directorio (carpeta)
+		[], para crear subdirectorios.
+rmdir: Borra directorio
+rm -rf: Borra directorio no vacio.
+tree: Lista elementos en forma arbolada
+mv: <source> <target> mueve directorio.
+cp: copy
+touch <nombre_de_archivo>: Modifica la fecha/hora de modificacion de un archivo o, de no existir, lo crea.
+whoami: Muestra el usuario actual.
+which <comando>: Muestra donde se encuentra el binario del comando.
+
+Dirigir un flujo (>>)
+echo "hola"
+echo "hola" >> texto.txt (>> agrega)
+cat saludar.txt
+echo "hola" > texto.txt (> sobreescribe)
+history >> historial
+more
+less
+
+Punto de parcial: Crear un arbol de directorios en un solo comando.
+
+cd ../../ Una barra por nivel. 
+Tab completa el directorio ingresado.
+Tab Tab muestra los directorios a los que puedo ingresar en el nivel actual.
+
+sudo apt-get install tree
+
+EjerUno Empresa -> Economica -> Resumen
+				-> Empleados -> Resumen
+				-> Saldo -> Positivo -> Final
+						 -> Negativo -> Final
+						 
+mkdir -p Empresa/{{Economica,Empleados}/Resumen,Saldo{Positivo,Negativo}/Final}
+						 
+EjerDos Datos -> Personales -> Direccion
+							-> Sala -> Resumen
+			  -> Publicos -> Imagenes
+						  -> Textos
+						  -> Facturas -> Pagadas
+									  -> No Pagadas
+									  
+;----------------------------------------------------------------------------------
+	
+--Clase 3
+
+Copyleft: Dejar el còdigo abierto a modo de "pago" por utilizar còdigo de otro.
+Al desarrollar una aplicaciòn utilizando còdigo ajeno, la aplicaciòn desarrollada debe mantenerse 
+como cod. abierto.
+
+- Open Source: Codigo abierto. No necesariamente gratis.
+- Free Software (Libre, no gratis): Se cobra por la "mano de obra" (Mantenimiento o configuraciòn)
+
+Licencias de Software:
+- Estrictamente privativa
+- Libre
+- Intermedia 
+Copyright©
+Licencia BSD: Permite el uso del código fuente en software no libre.
+FSF: La FSF elabora, mantiene y defiende la Licencia Pública General GNU (GNU GPL)
+OSI:
+CC:
+
+Ley de copyright: Cualquier dato generado es propio.
+Licencia de software: A partir de una ley de copyright, agrego o remuevo pautas. El usuario 
+su uso.
+Licencia de cod. abierto: Una licencia de código abierto es una licencia de 
+software que permite que tanto el código fuente como los archivos 
+binarios sean modificados y redistribuidos libremente y sin tener que pagar al autor original.
+La diferencia entre èstas licencias es la cant. de libertad que ofrece.
+Cod. abierto: El autor renuncia a ciertos derechos que le da el copyright de x pais.
+Cod. cerrado: El usuario puede renunciar a derechos (de privacidad generalmente).
+
+Cod. Fuente: No es fìsico, pero puede ser usado. Es tratado como un obj fìsico.
+
+- La libertad de ejecutar el programa como se desee, con cualquier propósito (libertad 0).
+- La libertad de estudiar cómo funciona el programa, y cambiarlo para que 
+  haga lo que usted quiera (libertad 1). El acceso al código fuente es una condición necesaria para ello.
+- La libertad de redistribuir copias para ayudar a otros (libertad 2).
+- La libertad de distribuir copias de sus versiones modificadas a terceros (libertad 3). 
+  Esto le permite ofrecer a toda la comunidad la oportunidad de beneficiarse de 
+  las modificaciones. El acceso al código fuente es una condición necesaria para ello.
+  
+Shareware: Juegos con publicidad.
+
+https://hipertextual.com/archivo/2014/05/diferencias-software-libre-y-open-source/
+
+COMANDOS: 
+
+touch <nombre_de_archivo>: Modifica la fecha/hora de modificacion de un archivo o, de no existir, lo crea.
+
+
+Pròxima clase: Virtualizaciòn.
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+
+Clase 4----
+
+Microprocesador: Sumador que apunta a otros sumadores que apuntan a otros sumadores. Sòlo realiza operaciones 
+aritmeticas a alta velocidad. 
+Memoria de control: Su función es buscar las instrucciones en la memoria principal, decodificarlas (interpretación)
+y ejecutarlas, empleando para ello la unidad de proceso.
+Emulaciòn: Desventaja principal: mayores recursos que lo que quiero emular.
+Procesos que solìan ser de hardware pasaron a ser de software. (Mediante un bus principal y drivers)
+En algunos sistemas, la RAM libre està siendo "desperdiciada".
+Fidelidad:
+Aislamiento: Maquinas virtuales no afectan al host.
+Rendimiento: Trata de emular el rendimiento. No deberìa haber diferencia de desempeño.
+Ventajas principales: Multiples computadoras de servidores en un host poderoso.
+Servidores utilizan hipervisor tipo 1.
+Para "transladar" la maquina virtual, es aconsejable que el disco virtual reserve su tamaño completo.
+
+sd# discos Linux
+fdisk
+mkfs comando make file system.
+mount 
+unmount
+df sdx info de disco y particiones
+du tamaño de un archivo
+
+Particiones primarias, extendidas y lògicas.
+
+Ejercicio:
+Dos Discos rìgidos (4GB y 6GB) El de 4, ocupado en una particion.
+El de 6, una particion de 3GB. Dentro de de la particion, una carpeta llamada /datos/info.txt con la informacion del disco de 4GB								  
+
+;----------------------------------------------------------------------------------
+
+Clase 5---
+
+Ejercicio: 
+Crear 3 discos. 5GB (2GB /Juegos, 3GB /App ),6GB (4GB /Fotos),7GB (2GB /Datos, 3GB /info, 1GB /backup)
+
+Temas de parcial:
+Comandos de Linux, Lenguajes de programacion, Elementos fundamentales de los sistemas operativos,
+Licencias de software, Virtualizacion, Estructura de directorio y punto de montaje.
+
+lvm tipo de datos de particion para agrupar particiones.
+Para Unix/Linux todo dispositivo es un archivo. 
+Todo es un archivo, incluso los directorios.
+La consola es un archivo de cada sub-directorio.
+
+directorios estaticos y no estaticos. 
+Ejemplos estaticos: bin, Opt, boot.
+Ejemplos dinamicos: var, 
+
+Sub-directorio compartido o no compartido. 
+
+etc: archivos de configuracion.
+var: archivos temporales (cache, http, etc).
+proc: todo lo que pasa en el sistema.
+tipos de archivo: archivos comunes, archivos directorios (contienen otros archivos o directorios), 
+archivos especiales (representan a los dispositivos)
+
+Cosas a tener en cuenta para nombrar archivos: 255 caracteres max (8 bits), es case-sentive, inodos y enlaces.
+inodo: representacion del archivo y el nombre. Es un enlace a una direccion del disco rìgido.
+comandos:
+ln x y genera un enlace fisico
+ln -s x y genera un enlace lògico (acceso directo)
+
+ejercicio:
+crear 3 archivos: archivo.txt, foto.jpg, base.dat > " " y comprimirlas
+tar -cvf nombre.extension nombreDeArchivoODirectorioAComprimir 
+ej: tar -cvf backup.zip alumno
+ver archivo comprimido por consola:
+tar -tf nombreDeArchivo
+tar -xvf nombreDeArchivo
+
+Permisos
+chown cambiar propietario usuario:grupo
+chmod XXX nombreDeArchivo
+
+Windows: Relacion Fisica-Logica
+Linux: 
+
+Registrar montajes en fstab
+
+;----------------------------------------------------------------------------------
+
+Clase 6---
+
+Parcial
+
+;----------------------------------------------------------------------------------
+
+Clase 7---
+
+Repositorios
+Paquetes: Comandos
+
+RPM - Red Hat
+.deb - Debian
+apt - Ubuntu
+aptitud - Ubuntu
+yum - Red Hat
+
+Verifican repositorios y actualizan paquetes.
+
+/etc/apt
+
+/var/lib librerias de programas instalados
+
+/var/lib/apt
+
+sudo apt-get update actualiza paquete en /var/cache
+sudo apt-get check chequea version
+sudo apt-get upgrade acualiza sistema
+
+sudo apt-get install <nombre de aplicacion>
+sudo apt-get install <nombre de aplicacion> -f instala la aplicacion con las dependencias necesarias.
+sudo apt-get install mc
+sudo apt-get install --reinstall mc
+sudo apt-get remove <nombre de aplicacion> remueve la aplicacion
+sudo apt-get purge <nombre de aplicacion> remueve la aplicacion y la configuracion
+
+/var/cache se guardan los paquetes.
+
+sudo apt-get clean borra los paquetes en cache
+sudo apt-get autoclean detecta que paquete no esta siendo utilizado y lo remueve.
+
+sudo apt-get autoremove elimina las dependencias de programas que no estan más.
+
+apt-cache search <paquete> Busqueda
+apt-cache policy <paquete> informacion del paquete.
+apt-cache showpkg <paquete> informacion del paquete /var/lib/aptlist
+
+dpkg -i paquete.deb
+dpkg -l | more
+dpkg -L mc | more
+dpkg -R mc desinstala el paquete
+	 --configure
+dpkg -S /bin/<paquete> a donde pertenece.
+dpkg -S usr/bin/<paquete>
+
+steam OS. Lakka, Ubuntu Game Pack, sparky Linux, spin fedora Games
+
+;----------------------------------------------------------------------------------
+
+Clase 8---
+
+Memoria: medio que nos permite almacenar informaciòn. Puede ser electrònica o de cualquier
+tipo que pueda convertirse a binario. Dispositivo que almacena bytes. (Puede ser electrònico o fìsicos, como los CD's)
+Tienen dos tipos de accesos que podemos lograr: 
+Acceso secuencial: Algoritmia de punteros en C.
+Acceso aleatorio: Permite poder acceder al "1" y al "100" sin tener que recorrer al 2,3,4,etc. Tarda lo mismo al acceder
+a una posiciòn u otra, ya que se le indica la direcciòn.
+Las memorias comenzaron siendo secuenciales hasta que la tecnologìa electrònica comenzò a reemplazar a la magnètica.
+Actualmente se dispone de los dos tipos de memorìa. 
+
+Uno de los factores que define la diferencia de precio entre CPU's es la memoria cachè, muy determinante en la 
+velocidad (Aprovecha mejor el poder del microprocesador) del CPU.
+Cache L1: Pegada al microprocesador. L2 y L3: Separadas pero dentro del chipset.
+
+Registro del CPU: Velocidad màxima con la que contamos.
+ROM de control: Microinstrucciones que se van a ejecutar para que funcione la computadora. Escribe y lee
+sobre el registro. Define la velocidad de lectura y escritura.
+
+Memoria virtual: Utilizaciòn de disco rìgido como memoria RAM. (pagesys Windows)
+
+Memoria RAM: 
+
+Android: Memoria RAM vacia es memoria RAM desperdiciada.
+
+Dispositivos de almacenamiento no volàtil (Disco rìgido, pendrive, cd, diskette, etc)
+
+Diferencias principales: Tamaño, velocidad de acceso, cant. de memoria (cercanas a microprocesador es menor, bytes, kbytes)
+reemplazos (Ejemplos, RAM puede ser facilmente reemplazable, Cachè L1 està integrada a procesador).
+
+Microprocesador risc: Mayor aprovechamiento de la memoria. Procesos màs pequeños siempre y cuando no sean
+procesor complejos que requieran todo el uso del procesador. (reducido)
+Microprocesador cisc: (Complejo)
+
+Estas arquitecturas utilizaràn la memoria como estè definido en su ROM de control.
+
+El costo y el uso a la hora de armar un sistema para calcular el costo (Memoria, procesador, almacenamiento).
+Memoria virtual: Translada procesos volcados en la RAM (traducido a binario), es màs ràpido volver a buscarlo de ahì
+que volver a ejecutarlo.
+
+Particionamiento de disco: 4 particiones primarias (deciden que particion inicia)
+Guardado de informaciòn en disco rìgido: Problema de almacenar archivos: Decidir cuàl es el 
+tamaño mìnimo (Tipo de almacenamiento determina la forma y tamaños/limites, ej Fat32, Fat16, ntfs elegido al formatear).
+
+Todos los archivos contiene la informaciòn de su creaciòn, modificaciòn y ùltimo acceso.
+
+RAID 0: Combina discos, datos divididos.
+RAID 1: Dos discos como espejo.
+RAID 5: 
+
+comandos:
+
+free -m muestra memoria
+cat opt/prop/meminfo
+
+;----------------------------------------------------------------------------------
+
+Clase 9---
+
+Git: Parte de la necesidad del desarrollo del kernel de Linux. El sistema anterior se volviò pago (bitkeeper).
+
+git init: crea un nuevo repositorio local
+git status
+git add . guarda todos los archivos "en rojo" del area de trabajo y los vuelca a lo que se va a "commitear"
+git commit -m "Primer commit"
+git log
+git clon <url>
+git config --list
+git push <origin> <master>
+git diff ver diferencias entre working area y stage areas.
+git remote
+git branch <nombre> verifica en que rama estoy.
+git checkout <nombre de rama> cambia de rama. Aunque no la muestra el Git Branch
+En un solo paso: git checkout -b <nombre de rama> crea rama y cambia a ella.
+git merge <nombre de rama> toma codigo de un branch y lo mete en otro.
+git pull <>
+
+;----------------------------------------------------------------------------------
+
+Clase 10---
+
+Master: prototipo de la aplicaciòn. Generalmente la parte visual funcional. (Siempre funcionando sin
+errores). El master es lo que se le muestra al cliente durante el desarrollo.
+Dev UI: Desarrollo de user interface.
+Dev UI Test: Testeo de Dev UI.
+Test: ...
+
+Procesos:
+A diferencia de las funciones, no recibìan parametros. Eran autònomos.
+Inicio: 1-Bios (verificaciones de dispositivos) -> 2-Sistema operativo (Punto de arranque que ejecuta 
+todos los demàs procesos o bootloader)
+Linux: grub, serie de configuraciones de inicio. Windows: Master boot record. -> Bootloader apunta a la 
+direcciòn de memorìa donde se encuentra
+el punto de arranque, comenzando por el -> 3-Kernel (Carga los drivers y las 
+configuraciones). -> 4-Init (Primer proceso en memoria, planificacion de los procesos)
+
+;----------------------------------------------------------------------------------
+
+Clase 11---
+
+Comandos:
+id: muestra el usuario, los grupos, etc
+id <usuario>: Muestra el usuario con sus grupos.
+cat /etc/passwd: Muestra el registro de usuarios. Pueden editarlo quienes tengan permisos root.
+cat /etc/shadow: Se guardan las passwords.
+useradd: Crea un usuario.
+sudo usseradd -s /bin/bash -m -c "Usuario de Prueba" Prueba1
+sudo usseradd -s /bin/bash -m -c "Usuario de Prueba" Prueba1 -d 
+egrep <palabra> <archivo>: La linea en la cual se encuentra la palabra a buscar. ej. egrep prueba /etc/passwd
+passwd <usuario>: cambia el password (Sin usuario, cambia el actual).
+sudo login <usuario>: cambia de usuario.
+su <usuario>: los como root
+su - <usuario>: log y manda a una carpeta en la que el user tenga permisos.
+
+Trabajo:
+Sobre un usuario, crear carpetas y darle permisos para que los demàs usuarios puedan acceder.
+
+Usuarios: Owner, Admin, Test, Desarrollo
+
+Grupos Dev y Testing
+
+1 crear los grupos
+2 que desarrollo pertenezca a Dev
+3- que test pertenezca a testing
+4 que owner pertenezca a los dos grupos
+5 crear la carpeta "/datos" en "/"
+6 cambiar permisos para dato RWX RW- ---
+
+;----------------------------------------------------------------------------------
+
+codigo parcial:
+
+git checkout master
+git pull origin master
+git merge test
+git push origin master
+
+//Crear usuario
+	useradd [opciones] nombre-usuario
+	sudo usseradd -s /bin/bash -m -c "Usuario de Prueba" Prueba1
+
+    -g: Grupo principal que queremos tenga el usuario (debe existir previamente)
+    -d: Carpeta home del usuario. Suele ser /home/nombre-usuario
+    -m: Crear carpeta home si es que no existe.
+    -s: Intérprete de comandos (shell) del usuario. Suele ser /bin/bash
+
+// Establecer la contraseña del usuario
+    sudo passwd Prueba1
+
+El comando usermod permite cambiar el nombre del usuario, su carpeta home, su intérprete 
+de comandos, los grupos a los que pertenece y algunos otros parámetros.
+
+// Cambiar el home de un usuario
+    sudo usermod -d /home/Prueba1 Prueba1
+
+// Eliminación de un usuario
+    sudo userdel -r Prueba1 (-r eliminará también su carpeta home)
+
+// Añadir un grupo
+    sudo groupadd nombre_grupo 
+
+// Cambiar el nombre del grupo 
+    sudo groupmod -n nuevo_nombre_grupo nombre_grupo
+	
+// Cambiar el gid del grupo
+    sudo groupmod -g 2000 nombre_grupo
+
+// Eliminación de un grupo
+    sudo groupdel profesores
+	Si algún usuario tuviera dicho grupo como grupo primario, el comando groupdel no eliminará el grupo.
+
+// Añadir a 'user_name' al grupo 'nombre_grupo'
+    sudo adduser user_name nombre_grupo
+
+// Quitar a 'user_name' del grupo 'nombre_grupo'
+sudo deluser user_name nombre_grupo 

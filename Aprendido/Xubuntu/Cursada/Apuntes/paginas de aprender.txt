@@ -1,0 +1,3 @@
+http://www.ubuntu-guia.com/2009/07/comandos-basicos-de-linux.html
+http://elblogdeliher.com/como-moverse-por-los-directorios-en-la-terminal-de-ubuntu/
+http://blog.desdelinux.net/mas-de-400-comandos-para-gnulinux-que-deberias-conocer/#

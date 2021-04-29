@@ -1,0 +1,132 @@
+  
+
+                                Clase 10
+
+Usuarios estan dentro de grupos los cuales pueden ser conformados por un alumno o variosç
+Los grupos tienen unos permisos , los usuarios otros permisos y los integrantes de los grupos
+pueden tener otros permisos
+Los usuarios pueden estar interelacionados entre grupos , es decir un usuaro con
+dos grupos , etc.
+
+Cuando un usuario entra en un grupo pasa a tener los mismo permisos que el resto de los usuarios
+
+
+Comandos:
+
+ 
+ 
+ id  ->Comando que nos identifica quienes somos, usuario que esta logeado
+
+ cat /etc/passwd  ->tiene nuestro password 
+
+     la "x" indica que tenemos un password antes se guardaba ahi pero ahora esta 
+      sudo  cat /etc/shadow    
+      En el shadow se guardan los password (estan cifrados)
+
+ useradd ->Para crear un usuario
+
+ useradd -s  -> permite asignarle la consola
+ 
+ useradd -m  -> crea la carpeta en el home del nuevo usuario
+
+ useradd -c  ->descripcion del usuario 
+ 
+ 
+ sudo useradd -s /bin/bash -m -c "Usuarioprueba" prueba1 (creamos usuario con direccion , nombre y comentario)
+
+ egrep -> dame la linea en la cual encontras esta palabra
+
+ egrep prueba1 /etc/passwd -> busca la linea de "prueba" en ese directorio.
+
+ egrep prueba1 /etc/shadow  ->busca la linea de "prueba" en ese directorio. (requiere permisos)
+
+ id prueba1  ->para ver la descripcion del usuario 
+
+
+ -Al usuario automaticamente le crea un grupo y el grupo es el mismo nombre que el usuario
+
+
+ ls -la | more ->  lo que muestra a la izquierda son los permisos
+                   el primero si tiene "s" son archivos especiales y si muestra "d"
+                   es que es directorio.
+                   Vamos hasta el "shadow" y lo que tengo es "lectura y escritura" de quien lo creo
+                   y "lectura" para el grupo , por eso hay que poner "sudo" que son los permisos del 
+                   grupo. 
+                   
+                   El "passwd" puede leerlo cualquiera tiene permiso de lectura en resto
+                    
+
+sudo passwd prueba1 -> nos permite ingresar una contraseña al usuario que creamos
+                        Ahora en el "shadow" veremos que el usuario prueba1 tiene contraseña
+
+sudo login prueba1  -> nos permite loguearnos como otro usuario , luego ponemos 
+                       "id"y comprobamos que estamos logeados como usuario1 
+
+AHORA EN EL HOME NOS MUESTRA DOS USUARIOS el de "alumno" y el de "prueba1"
+SI REINICIAMOS LA MAQUINA TENDRIA QUE APARECER EL USUARIO para elegir
+ 
+Nos logueamos como prueba1 y no podemos ver shadow  
+
+Cambiamos desde la consola el usuario no podemos hacerlo con "login" lo hacemos con:
+
+ su alumno   -> nos pide contraseña de alumno, podemos entrar como root, LO TENEMOS QUE HACER DESDE EL HOME
+ su - alumno  -> LO QUE HACE ES LOGUEARTE Y MANDARTE EN LA CARPETA DONDE TIENE ESOS PERMISOS
+
+Creamos otro user prueba 2 con todos los mismos pasos
+
+En el home vamos a cd .config , y luego a cat user-dirs.dirs , debo entrar
+como sudoers es decir como alumno, y aqui vemos los archivos prederminados
+
+
+
+
+
+que podemos modificar y cambiarlos
+
+como iniciamos desde prueba1 vemos el arhcivo .config y lo que tiene adentro
+En cambio prueba2 tiene el .config pero no tiene todo
+
+****************************************************************************************
+ANTERIORMENTE NO TENIAN EL HOME , CUANDO INICIABAS DESDE OTRO USUARIO SE CREABA EL HOME
+****************************************************************************************
+
+
+  useradd -d -> crea un usuario con el home cuando tengo el -d 
+
+
+
+
+
+En grupos hay dos tipos de grupos:
+
+ El grupo principal y el secundario.
+
+EJERCICIO:
+**********
+Usuarios: owner,admin,test,desarrollo
+Grupos: dev y testing.
+
+
+-Creamos las carpetas fotos , archivos,bd  dentro de "prueba1" y le damos solo permiso
+ a la parte de grupo en fotos de rwx.
+
+   1-Crear los grupos
+   2-Que desarrollo pertenezca a dev 
+   3- que test pertenezca a testing
+   4-que owner pertenezca a los dos grupos
+   5-crear la carpeta /datos en "/" 
+   6-Cambiar permisos para : rwx rw_   _ _ _
+
+
+
+1º creamos grupos , despues usuarios y despues hacemos que los usuarios pertenezcan
+   a los distintos grupos que creamos
+
+
+groupadd  -> crea un grupo
+adduser -> agregamos usuario a un grupo
+getent group -> podemos ver los grupos y lo que tienen
+
+sudo adduser owner testing && sudo adduser owner dev para agregar un usuario
+a dos grupos en una linea
+

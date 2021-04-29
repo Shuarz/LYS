@@ -1,0 +1,10 @@
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

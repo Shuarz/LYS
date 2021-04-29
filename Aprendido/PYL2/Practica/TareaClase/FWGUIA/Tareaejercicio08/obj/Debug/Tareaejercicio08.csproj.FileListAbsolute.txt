@@ -1,0 +1,7 @@
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\Tareaejercicio08\bin\Debug\Tareaejercicio08.exe.config
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\Tareaejercicio08\bin\Debug\Tareaejercicio08.exe
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\Tareaejercicio08\bin\Debug\Tareaejercicio08.pdb
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\Tareaejercicio08\obj\Debug\Tareaejercicio08.csprojAssemblyReference.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\Tareaejercicio08\obj\Debug\Tareaejercicio08.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\Tareaejercicio08\obj\Debug\Tareaejercicio08.exe
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\Tareaejercicio08\obj\Debug\Tareaejercicio08.pdb

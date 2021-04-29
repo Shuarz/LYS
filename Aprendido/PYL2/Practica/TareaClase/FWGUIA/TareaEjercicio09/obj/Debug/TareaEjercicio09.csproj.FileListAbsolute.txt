@@ -1,0 +1,6 @@
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio09\bin\Debug\TareaEjercicio09.exe.config
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio09\bin\Debug\TareaEjercicio09.exe
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio09\bin\Debug\TareaEjercicio09.pdb
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio09\obj\Debug\TareaEjercicio09.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio09\obj\Debug\TareaEjercicio09.exe
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio09\obj\Debug\TareaEjercicio09.pdb

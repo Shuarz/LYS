@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1538593957 source:d:\users\usuario\desktop\tp_laboratorio_1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+
+1538593957 d:\users\usuario\desktop\tp_laboratorio_1\tp2\empleados.h
+
+1538620584 source:c:\users\shuarz\desktop\codigos de programacion\tp_laboratorio_1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+
+1538620226 c:\users\shuarz\desktop\codigos de programacion\tp_laboratorio_1\tp2\empleados.h
+
+1538620519 source:c:\users\shuarz\desktop\codigos de programacion\tp_laboratorio_1\tp2\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1541641947 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\tp2\mibibloteca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1541644594 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\tp2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"miBibloteca.h"
+
+1541644133 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\tp2\arrayemployees.h
+
+1541641947 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\tp2\mibibloteca.h
+
+1541645534 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"miBibloteca.h"
+	"menu.h"
+
+1541641947 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\tp2\menu.h
+
+1541649722 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"miBibloteca.h"
+	"menu.h"
+

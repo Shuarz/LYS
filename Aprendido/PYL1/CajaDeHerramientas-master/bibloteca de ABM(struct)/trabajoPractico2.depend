@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1524861917 source:c:\test\scarafilo\ejemplogenerico\estructuragenerica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EstructuraGenerica.h"
+
+1524860804 c:\test\scarafilo\ejemplogenerico\estructuragenerica.h
+
+1524861554 source:c:\test\scarafilo\ejemplogenerico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EstructuraGenerica.h"
+
+1538448991 source:c:\users\fernando\desktop\abmgenerico\trabajopractico2\funcionesextras.c
+	"funcionesExtras.h"
+
+1538448949 source:c:\users\fernando\desktop\abmgenerico\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayEmpleados.h"
+	"funcionesExtras.h"
+
+1538448755 c:\users\fernando\desktop\abmgenerico\trabajopractico2\arrayempleados.h
+
+1538448222 source:c:\users\fernando\desktop\abmgenerico\trabajopractico2\arrayempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmpleados.h"
+
+1538448613 c:\users\fernando\desktop\abmgenerico\trabajopractico2\funcionesextras.h
+
+1538608717 source:c:\users\fernando\desktop\tps\tp_laboratorio_1\trabajopractico2\funcionesextras.c
+	"funcionesExtras.h"
+
+1538613655 c:\users\fernando\desktop\tps\tp_laboratorio_1\trabajopractico2\funcionesextras.h
+
+1538620597 source:c:\users\fernando\desktop\tps\tp_laboratorio_1\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayEmpleados.h"
+	"funcionesExtras.h"
+
+1538620338 c:\users\fernando\desktop\tps\tp_laboratorio_1\trabajopractico2\arrayempleados.h
+
+1538620626 source:c:\users\fernando\desktop\tps\tp_laboratorio_1\trabajopractico2\arrayempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmpleados.h"
+

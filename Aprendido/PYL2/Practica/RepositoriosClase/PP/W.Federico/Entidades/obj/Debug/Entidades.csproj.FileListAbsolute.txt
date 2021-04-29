@@ -1,0 +1,12 @@
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Entidades\bin\Debug\Entidades.dll
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Entidades\obj\Debug\Entidades.dll
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Entidades\obj\Debug\Entidades.pdb
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Entidades\bin\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Entidades\bin\Debug\Entidades.pdb
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Entidades\obj\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Entidades\obj\Debug\Entidades.pdb

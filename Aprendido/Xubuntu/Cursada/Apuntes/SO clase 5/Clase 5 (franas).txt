@@ -1,0 +1,146 @@
+Hacer 3 discos rigidos
+-5gb
+-6gb
+-7gb
+
+6 particiones
+-sdb1
+-sdb2
+
+-sdc1
+
+-sdd1
+-sdd2
+-sdd3
+
+Montados en 6 carpetas en /Home
+-/Juegos
+-/App
+-/Fotos
+-/Datos
+-/Info
+-/Backup
+
+Una vez creados los discos "Fisicos" hay que crear las particiones con, por ejemplo para crear
+las particiones de sdb ---> "sudo fdisk /dev/sdb"
+
+Una vez dentro con el comando 'n' hacemos "New partition" para asignarle un tamaño de 2Gib a sdb1, en "last sector" ponemos
+"+2G" y se le asignaran 2Gib
+
+Repetimos el proceso para sdb2.
+
+Una vez terminamos en sdb, revisamos las particiones con 'i' info. Si hay que borrar alguna lo hacemos con 'd' delete,
+sino salimos con 'w' write.
+
+Estando en la consola de nuevo, checkeamos nuestras nuevas particiones con "ls -l /dev/sd*". Si estan correctas repetimos
+el procreso en sdc.
+
+Una vez creadas las particiones debemos formatearlas con 'mkfs' Make File System.
+Para hacerlo, por ejemplo con sdb1, debemos "sudo mkfs /dev/sdb1" y ya se crea el systema de archivos en esa particion.
+Debemos repetir esto en todas las particiones.
+
+Una vez formateadas todas las particiones creamos los directorios a los que queremos montarlos.
+vamos a /home con "cd /home" y creamos los directorios, ej: "sudo mkdir /Juegos".
+
+Una vez creador los directorios debemos montar las particiones con "sudo mount" por ejemplo para montar
+la particion sdb1 haremos "sudo mount /dev/sdb1 /home/Juegos" y asi con todas las particiones
+
+
+
+
+
+
+LVM ----> Programa de manejo de discos. Permite manejar discos logicos como discos fisicos, con todo en funcionamiento.
+
+
+----Tema: Directorios de Linux----
+El sistema de directorios de Linux visto en "tree" son respetados en todos los sistemas Unix.
+Todos, tanto linux como android empiezan en /root.
+Hay algunos que son dinamicos y otros estaticos.
+Algunos directorios son modificables como Usuario, otros como Administrador y otros no se puede.
+Saber de directorios sireve para saber a que directorio tenemos que ir a vuscar que informacion.
+La consola es un subdirectorio. Un archivo. Todo es un archivo.
+Hay clases de directorios y subdirectorios. Compartidos y no compartidos. Estaticos y dinamicos.
+Los estaticos son las bibliotecas. Y los dinamicos son los que van cambiando a medida que van pasando cosas.
+Los directorios estaticos no cambian, solo cuando el administrador quieren que cambien, por ejemplo con un "Sudo apt-get update".
+Ej directorios estaticos: /bin /sbin /usr/bin /boot /opt 
+Los directorios dinamicos, son los que cambian con el accionar diario en el manejo de la computadora. Casi todo lo que 
+esta en el /home es dinamico.
+Directorio dinamico por excelencia: /var.
+en /var/ se guardan todos los directorios como /cache /tmp /backups etc.
+
+otros directorios:
+/proc //cosas de la RAM
+/media //Punto de montaje por default
+/etc/opt //configuraciones
+/root //tiene todo
+
+
+Hay 3 tipos de de archivos
+-El archivo comun: ES TODO, musica, giladas etc. 
+-Archivo directorio: Pueden contener a otros directorios adentro.
+-Archivos especiales: Que representan los dispositivos, osea el hardware.
+
+creando un archivo tenemos en cuenta que:
+-caracteres maximos del titulo son 256 (8Bytes)
+-son keysensitive
+-inodos y enclaces
+
+Inodos: El inodo es la representacion y la relacion que se crea con el nombre "ln" es una funcion que lo que hace
+es referenciar un nombre con un inodo, y permite que dos archivos apunten al mismo inodo de manera fisica o enlace fisico.
+
+por otro lado "ln -s  unarchivo.txt otro.txt" en este caso la union es "simbolica" y no fisica, decir, si borro "unarchivo.txt"
+"otro.txt" perdera la referencia y dejara de funcionar hasta que se cree un archivo con el mismo nombre
+al que hace refencia, se comporta como un "acceso directo"
+
+
+----Comando TAR----
+
+El comando tar sirve para comprimir y descomprimir cosas...
+"tar -cf backup.tar archivo1.txt archivo2.txt foto.jpg directorio/" Aca estamos comprimiendo en el archivo backup.tar los archivos y directorios subsecuentes
+"tar -tf backup.tar" Aca estamos viendo todo lo que tiene backup.tar dentro
+
+
+----PERMISOS----
+Es necesario para manipular y entender el manejo de los archuvos y podes acceder a ellos
+
+Por ejemplo en el directorio ~ (alumno) hacemos "ls -l" y aparecera lo siguiente:
+-rw-rw-r-- 1 alumno alumno     0 sep 28 11:11 archivo.txt
+-rw-rw-r-- 1 alumno alumno 10240 sep 28 11:13 backup
+-rw-rw-r-- 1 alumno alumno     0 sep 28 11:11 base.dat
+drwxr-xr-x 2 alumno alumno  4096 nov 30  2016 Descargas
+drwxr-xr-x 2 alumno alumno  4096 nov 30  2016 Documentos
+-rw-rw-r-- 1 alumno alumno    18 sep 28 12:01 ejecutor
+drwxr-xr-x 2 alumno alumno  4096 nov 30  2016 Escritorio
+-rw-rw-r-- 1 alumno alumno     0 sep 28 11:11 foto.jpg
+drwxr-xr-x 2 alumno alumno  4096 nov 30  2016 Imágenes
+drwxr-xr-x 2 alumno alumno  4096 nov 30  2016 Música
+lrwxrwxrwx 1 alumno alumno     8 sep 28 10:04 nuevo.txt -> otro.txt
+drwxr-xr-x 2 alumno alumno  4096 nov 30  2016 Plantillas
+drwxr-xr-x 2 alumno alumno  4096 nov 30  2016 Público
+drwxr-xr-x 2 alumno alumno  4096 nov 30  2016 Vídeos
+
+La primer cadena de texto son los permisos de administracion del archivo.
+
+Se separan los caracteres de la siguiente manera: _ | _ _ _ | _ _ _ | _ _ _
+El primer caracter de la izquiera dira que clase de archivo es... Si es una 'd' es un directorio, si es una 'l' es una libreria y '-' es de archivo final.
+Los otros tres paquetes de 3 caracteres son RWX que es 'r' READ, 'w' WRITE, 'X' EXECUTE. El primer paquete dice que puede hacer el SUPERUSUARIO con ese archivo,
+el segundo paquete administra los permisos de un grupo determinado, y el ultimo administra los permisos de "otros".
+Entonces modificando estos permisos con el comando "chmod" podremos modificar los permisos de nuestros archivos y directorios.
+
+chmod xxx archivo //este comando administra los permisos de manera binaria. Entonces el rango de un byte va de 0 a 7. Entonces para dar permisos, cada x representa
+cada paquete de 3 numeros binarios, donde 7 es un permiso total porque es RWX = 111 osea R=1 W=1 X=1, esto significa que este tipo de usuario puede tanto leer
+como modificar y ejecutar este archivo. Si quiero que un usuario pueda leer y ejecutar un archivo pero no modificarlo tengo que ponerle de valor 5, porque 5
+es 101 entonces R=1, W=0, X=1 entonces los permisosno habilitan la escritura del archivo para determinado usuario.
+
+Una vez que tenemos los permisos de ejecucion de un archivo/comando, podemos hacerlo de la siguiente forma "./archivo".
+
+
+Temas de parcial
+-Comandos de linux (TODOS)
+-Lenguajes de programacion
+-Elementos fundamentales de los sistemas operativos
+-Licencias de software
+-Virtualizacion
+-Estructura de directorio y punto de montaje
+(Primero teorico y despues practico)

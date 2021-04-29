@@ -1,0 +1,6 @@
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio17\bin\Debug\TareaEjercicio17.exe.config
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio17\bin\Debug\TareaEjercicio17.exe
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio17\bin\Debug\TareaEjercicio17.pdb
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio17\obj\Debug\TareaEjercicio17.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio17\obj\Debug\TareaEjercicio17.exe
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio17\obj\Debug\TareaEjercicio17.pdb

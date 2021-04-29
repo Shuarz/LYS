@@ -1,0 +1,10 @@
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\ModeloDeParcial\bin\Debug\ModeloDeParcial.exe.config
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\ModeloDeParcial\bin\Debug\ModeloDeParcial.exe
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\ModeloDeParcial\bin\Debug\ModeloDeParcial.pdb
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\ModeloDeParcial\bin\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\ModeloDeParcial\bin\Debug\Entidades.pdb
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\ModeloDeParcial\obj\Debug\ModeloDeParcial.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\ModeloDeParcial\obj\Debug\ModeloDeParcial.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\ModeloDeParcial\obj\Debug\ModeloDeParcial.csproj.CopyComplete
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\ModeloDeParcial\obj\Debug\ModeloDeParcial.exe
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\ModeloDeParcial\obj\Debug\ModeloDeParcial.pdb

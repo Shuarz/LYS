@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1538345778 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\ejercicios\clase 7\ejercicio7(vectores)\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"headerEjer.h"
+
+1538346475 c:\users\shuarz\desktop\codigos de programacion\camelcase\ejercicios\clase 7\ejercicio7(vectores)\headerejer.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1538393980 source:c:\users\alumno\desktop\camelcase\ejercicios\clase 7\ejercicio7(vectores)\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"headerEjer.h"
+
+1538393980 c:\users\alumno\desktop\camelcase\ejercicios\clase 7\ejercicio7(vectores)\headerejer.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

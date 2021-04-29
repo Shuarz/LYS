@@ -1,0 +1,71 @@
+cambio de software a hardware - concepto (no se puede emular un hardware de mayor potencia que el que se tiene fisicamente)
+
+drivers - antes eran hardware y ahora son software -- 
+
+os's consideran que la memoria ram nunca deberia estar ociosa, siempre en continuo uso.
+cuanto mas se utilice la ram y el cache mejor se podra manejar. la memoria ram no esta hecha para estar vacia.
+
+------OPERACION ELEMENTALES---- buscar 
+
+https://es.wikipedia.org/wiki/MIPS_(procesador)
+
+tiempo ocioso de microprocesador no existe en servidores. 
+
+¿como tener un administrador que me permita tener la computadora siempre andando a su maxima potencia sin que ande mal?
+¿A que se llama administrador?
+
+hipervisor--programa administrador de vitualizacion -- https://es.wikipedia.org/wiki/Hipervisor
+¿paravirtualizacion?
+https://www.osboxes.org/
+
+¿que tiene que tener una maquina virtual para ser tal?
+1-FIDELIDAD: tiene que ser fiel a lo que esta emulando: ese grupo de instrucciones que yo emulo tiene que ser fiel a lo que se trata emular
+2-AISLAMIENTO: .net == framework // java == virtual machine -- aisla la virtualizacion para que si se garcha la ram de la virtualizacion, la maquina real no sufre cambios.
+trata de poder llevar la maquina virtual al maximo sin poner el hardware en peligro
+3-RENDIMIENTO: no deberia haber diferencia entre el desempeño de una maquina virtual o una real. 
+
+--usar un usb3.0 es mas rapido que usar un sata pero no un SSD.--
+
+rai espejamiento-- para no perder datos, siempre hay un backup de datos en otro disco fisico
+
+varios tipos de hipervisor
+-hipervisor tipo 2: es de tipo dos porque necesita un sistema operativo para funcvionar porque es una aplicacion
+-otro se instala directamente en el servidor, osea de tipo 1. Tengo el hardware y despues tengo el hipervisor llanamente
+
+buscar:
+-kvm
+-openvz
+-xen proyect
+
+cuando virtualizamos podemos emular todo desde sus specs hasta sus funciones.
+el disco rigido no fijo de una maquina virtual es un limite dinamico donde se asigna el espacio necesario para el OS virtual y sus aplicaciones 
+y se asigna mas a medida que se lo necesita.
+
+si queremos hacer una maquina virtual desde 64xbit hay que configurar una habilitacion para hacerlo.
+¿que mierda es un chipset?
+
+---linux---
+
+¿que es /dev/?
+--device--
+sda//sdb
+
+comandos linux $/ sudo fdisk /dev/sda-sdb
+i- info
+p- partition
+n- new partition (full enter)
+
+mkfs -- comando para formatear
+
+mount -- para montar disc
+
+df -h /dev/sdb1 -- 
+
+tipos de particiones
+-primarias 
+-extendidas
+-logicas
+
+du --- ve cuanto pesa un archivo
+
+echo --

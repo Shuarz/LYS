@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1540579131 source:d:\users\usuario\desktop\camelcase\clase 15 al (...)\clase 16\clase16punestruc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblopunest.h"
+
+1540300894 source:c:\users\alumno\desktop\camelcase\clase 15 al (...)\clase 16\clase16punestruc\funpuntest.c
+	<stdio.h>
+	<stdlib.h>
+	"biblopunest.h"
+
+1540300893 c:\users\alumno\desktop\camelcase\clase 15 al (...)\clase 16\clase16punestruc\biblopunest.h
+
+1540579131 d:\users\usuario\desktop\camelcase\clase 15 al (...)\clase 16\clase16punestruc\biblopunest.h
+

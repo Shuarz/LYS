@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1540213218 source:c:\users\alumno\desktop\clase 22.10\clase 22.10\biblioestructura.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioEstructura.h"
+
+1540213261 c:\users\alumno\desktop\clase 22.10\clase 22.10\biblioestructura.h
+
+1540213424 source:c:\users\alumno\desktop\clase 22.10\clase 22.10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioEstructura.h"
+

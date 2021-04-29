@@ -1,0 +1,7 @@
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio15\bin\Debug\TareaEjercicio15.exe.config
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio15\bin\Debug\TareaEjercicio15.exe
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio15\bin\Debug\TareaEjercicio15.pdb
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio15\obj\Debug\TareaEjercicio15.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio15\obj\Debug\TareaEjercicio15.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio15\obj\Debug\TareaEjercicio15.exe
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\FWGUIA\TareaEjercicio15\obj\Debug\TareaEjercicio15.pdb

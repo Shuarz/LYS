@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541879260 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64\employee.c
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1541814363 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64\employee.h
+
+1541817164 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64\mibibloteca.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"miBibloteca.h"
+	"menu.h"
+
+1541814302 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64\mibibloteca.h
+
+1541884762 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"miBibloteca.h"
+
+1541814563 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64\linkedlist.h
+
+1541813988 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64\parser.h
+
+1541878893 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541880866 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Employee.h"
+	"miBibloteca.h"
+
+1541886226 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"miBibloteca.h"
+	"menu.h"
+
+1541813831 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64\controller.h
+
+1541813831 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64\menu.h
+
+1541879260 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64(este)\employee.c
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1541814363 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64(este)\employee.h
+
+1541886226 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64(este)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"miBibloteca.h"
+	"menu.h"
+
+1541814563 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64(este)\linkedlist.h
+
+1541813831 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64(este)\controller.h
+
+1541814302 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64(este)\mibibloteca.h
+
+1541813831 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64(este)\menu.h
+
+1541880866 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64(este)\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Employee.h"
+	"miBibloteca.h"
+
+1541880231 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64(este)\mibibloteca.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"miBibloteca.h"
+	"menu.h"
+
+1541878893 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64(este)\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541884762 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64(este)\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"miBibloteca.h"
+
+1541813988 c:\users\shuarz\desktop\codigos de programacion\camelcase\tp3 (modelo)\win_64(este)\parser.h
+

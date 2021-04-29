@@ -1,0 +1,9 @@
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Archivos\bin\Debug\Archivos.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Archivos\obj\Debug\Archivos.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Archivos\obj\Debug\Archivos.pdb

@@ -1,0 +1,49 @@
+C:\Users\Shuarz\Desktop\TP04\MainCorreo\obj\Debug\MainHamburgueseria.csprojAssemblyReference.cache
+C:\Users\Shuarz\Desktop\TP04\MainCorreo\obj\Debug\MainHamburgueseria.FrmPpal.resources
+C:\Users\Shuarz\Desktop\TP04\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Shuarz\Desktop\TP04\MainCorreo\obj\Debug\MainHamburgueseria.csproj.GenerateResource.cache
+C:\Users\Shuarz\Desktop\TP04\MainCorreo\obj\Debug\MainHamburgueseria.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Desktop\TP04\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Shuarz\Desktop\TP04\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainHamburgueseria.csprojAssemblyReference.cache
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainHamburgueseria.FrmPpal.resources
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainHamburgueseria.csproj.GenerateResource.cache
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainHamburgueseria.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainHamburgueseria.csproj.CopyComplete
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\bin\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\bin\Debug\Entidades.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\bin\Debug\Entidades.dll.config
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\obj\Debug\MainHamburgueseria.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\obj\Debug\MainHamburgueseria.FrmPpal.resources
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\obj\Debug\MainHamburgueseria.csproj.GenerateResource.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\obj\Debug\MainHamburgueseria.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\obj\Debug\MainHamburgueseria.csproj.CopyComplete
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\bin\Debug\Entidades.dll.config
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainHamburgueseria.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainHamburgueseria.FrmPpal.resources
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainHamburgueseria.csproj.GenerateResource.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainHamburgueseria.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainHamburgueseria.csproj.CopyComplete
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP4\Wahler.Federico.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb

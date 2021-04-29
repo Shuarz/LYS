@@ -1,0 +1,109 @@
+                                         Clase 3
+
+-Rasberry es como arduino tiene pins de electricidad , conexiones para pantallas , camaras,etc.
+
+-  Sistema operativo es rasbpian que es un devian echo para rasberry.
+   Particularidad:
+
+ *wikipedia:  Raspbian es una distribución del sistema operativo GNU/Linux y por lo tanto libre basado en Debian Strech
+
+      *Se carga por 5 vol a cualquier cosa , puede quedarse sin energia dependiendo el amperage
+      *Se descarga algo prearmado del raspbian que ya butea.
+      *Puedo descargar distintos Sistemas operativos nos da la opcion.
+      *Libre l  , trabajo con cody que es para peliculas
+      *Lo configuro y pued mover cualquier elemento electrico (internet of things).
+      *Podes hacer una aplicacion para que corra en raspbian solo lo hacemos en arquitectura para esto y en linux
+      *Tiene licencia que cualquier la puede utilizar , y esas mejoras las tiene que compartir obligatoriamente
+
+      *Copy left : es pagar ofreciendo algo como te lo dieron sin pagar.No se paga por el software sino por la instalacion
+      
+      
+
+
+
+  Libre l es la distro que se puede instalar en la maquina y en este caso eta incluido dentro de raspbian(tambien
+  es una distro).Se puede manejar con dos botos es muy facil de uso.
+
+
+
+
+
+ Diferencia entre open source y fsf : 
+
+ -Open source no es gratuito.
+
+
+  
+
+
+ Copyright:
+ 
+-Basado sobre derechos de autor en musica y literatura , los software no tienen nada que ver.
+-Codigo privativo , hace que alguien haga una copia de codigo abierto.
+
+Licencias de software: Son globales y otras son registradas como libros , los sotfware tenian que ser impresos.
+
+ -Encriptacion con pgp y el gobierno lo prohibio  ya que no sabian desencriptarlo.
+ 
+ -Paises en los cuales tiene ciertos atributos , tenenbaum tiene el sistema operativo MINIX tiene licencia BSD
+  BSD : podes hacer lo que quieras pero puuede privatizarse va encontra del copyletf.Permite el uso del código fuente 
+        en software no libre
+
+
+Tres organizacion de copyright : 
+  
+
+ Leyes de copyright son una cosa ls licensias de software otras:
+
+
+
+ ***Licencias de software:  ya hay una ley de copyright , partir de esa ley y yo con mi licencia modifico la ley que existe ahi.
+    Ejemplo : ley que dice que cualquier dato que genermos es nuestro , excepto que en la licencia de software hayamos dicho que ese twitter es libre.
+
+
+Licencia de software propietario y licencia de software de codigo abierto:
+  
+ -El problema es que libertades me da , la de propietario me saca libertades sobre es software
+
+ -Las de codigo abierto y opensource me dan mas libertades.
+
+ Ejemplo , hago una sala de juegos , la estoy dando en opensource y con los derechos de copyright hay que pagar, el autor de una licencia de codigo abierta
+ Renuncia a los derechos de opensource.
+
+ Si hago codigo cerrado , en las licencias siempre se ceden derechos y depende de quien lo haga , si es de opensource el que cede es el autor los derechos
+ si es windows es el usuario el que cede.
+
+ En el opensource te dan el codigo , pagas y lo usas
+ En software libre , lo usas , y lo devolves.
+
+
+FSF : NO SIGNIFICA GRATIS , SINO QUE ES LIBRE
+Te doy el codigo fuente pero para compilarlo de manera personal es lo complicado.
+
+ -La idea es que si queremos el codigo software nos lo da , pero si queremos la pagina web nos lo cobran(la implementacion)
+
+ Ejemplo : me pongo una empresa , el software se lo  doy a cualquiera , pero en la pagina se lo venden con soporte en un año(este ya viene echo)
+            o da el codigo abierto y despues te arreglas.
+  Redhat , si queremos el sistema operativo es gratis , pero si no funciona ya esta.
+  Es decir te dan el codigo pero hay que saber hacerlo funcionar.
+
+
+Libertades del software que pide FSF: Ejemplo github
+
+ -El codigo  fuente no es fisico pero si se puede usar , se puede usar para cualquier cosa.
+ -Yo pueda modificarlo a ese codigo fuente.  (poder verlo)
+ -Podemos redistribuir al mismo , no existe el concepto de copia ya que no es un concepto fisico , sino que son numeros binarios. (luego de que lo vi seguir distribuyendolo)
+ -Lo mismo pero modificarlo despues de que vino echo.
+
+
+
+ 
+
+
+
+
+
+
+
+
+

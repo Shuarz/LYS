@@ -1,0 +1,14 @@
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\bin\Debug\Controles.exe.config
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\bin\Debug\Controles.exe
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\bin\Debug\Controles.pdb
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\obj\Debug\Controles.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\obj\Debug\Controles.FrmInicio.resources
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\obj\Debug\Controles.exe
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\obj\Debug\Controles.pdb
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\obj\Debug\Controles.FrmCheckBox.resources
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\obj\Debug\Controles.FrmComboBox.resources
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\obj\Debug\Controles.FrmListBox.resources
+C:\Users\Maxi\source\repos\Formularios.2020\Controles\obj\Debug\Controles.FrmRadioButton.resources

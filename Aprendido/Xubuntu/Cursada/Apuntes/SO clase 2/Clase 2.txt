@@ -1,0 +1,98 @@
+                                                        CLASE 2
+
+Linea de comandos: 
+
+ -Porque funciona el kernel y cual es su arquitectura y fue a todas las plataformas.
+
+ -Risk y sis (android): funcionan ambas con linux 
+  alguien que sabe linux, sabe linux porque son los mismo comandos (comunicarse con hardware).
+ -Existe para todos los sitemas , ya que nace a partir de D.O.S. en el caso de windows , no puede separar windows (interfaz)
+  del codigo.
+ -DOS: sistema operativo creado por IBM y se lo dieron a microsoft.
+ -A otra maquina le puedo pasar todas lineas de comando y uno esta como si estuviera en la maquina.
+
+Interfaz de Usuario:
+
+ -Es posible integrarla , sin modificar a la otra , es decir al kernel, no solo escritorios sino tambien ejemplo un espejo inteligente
+ -Se puede serpara el kernel de la parte de interfaz grafica.
+ -Cada distribucion estan armadas para algo (ubuntu ,deeping , fedora).
+ -xmvc : soluciono que en la xbox le pasa cualqueir video y lo reproducia , ese software es libre y sirve pa reproducir peliculas
+         crearon distro con codi(aplicacion) y abajo el linux (libre elec (sistema operativo)-> lo tiene raspian, es un SO para ver todas las peliculas.
+ 
+ 
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+Linux es totalmente abierto para que puedas utilizarlo , modifcarlo y lo que sea.
+ -Unix tenia el codigo privado
+
+ -Antes de el kernel de linux existia MINIX (tenenbaun)  -> el problema que tenia es que es una distribucion para enseñanza 
+  y no quiere que sea un sitema para uso , es decir ampliarlo .
+
+ -Linus torvald lo penso alreves , el tiene la base y el codigo que va a interactuar con el hardware, gracias al kernel
+  el software interactua con el KERNEL.
+
+         *kernel : Se encarga de hacer todo del software al hardware , ejemplo definir un variable a la memoria ram.
+                   Asigna espacio en disco rigido , MEMORIA VIRTUAL , lo hace el kernel.
+                   Poder utilizar otro programa , interaccion entre esos procesos.
+                   Siempre tiene que estar guardado todo lo que este usando y esta en un archivo , puede ser privado o 
+                   otro que cualquiera puede ver y los podemos ver gracias a que la arquitectura del kernel tiene los subdirectorios
+                   para cualquier cosa.
+
+
+El kernel basa en linea de comando , luego la interfaz grafica , librerias y leugo dos tipos de aplicacioens instaladas en SO
+para configurar hardware disco rigido , ya vienen intaladas , ejectuan lineas de comando y son especificas del mismo dispositivo
+son UTILITARIOS , dependiendo el sistema operativo es lo que viene con ese.
+
+EN codi un utilitario es el reproductro de pelicula
+
+Aplicativos varios : son los que sirven para distintas cosas y de donde provienen
+
+En esto se compone un S.O
+
+
+                   
+------------------------------------------------------------------------------------------------------------
+LINUX LINEA DE COMANDO PRACTICA:
+
+
+ -man : es el manual de lo que uno quiera , ejemplo : man ls , man mkdir
+
+ -ls (lista) : tiene distintos modificadores y sirve para listar cosas.
+ 
+ -pwd : indica el directorio donde esta uno parado, tambien tiene modificadores.
+
+ -cd : no tiene manual (man) pero si ingresamos help cd , nos muestra info 
+       Permite acceder a los subdirectorios.
+       
+  cd .. : baja un nivel al subdirectorio anterior
+  cd ../ se peuda bajar a mas profundidad utilizamos tab para saber donde estamos y a donde acceder.
+  
+ 
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+Ejercitacion: 
+Ejemplo de codigo : mkdir -p a/{b,c}/x
+                    mkdir -p uno /{dosBis,/dos/tres,dos/tresBis}
+
+ -Crear una lista de subdirectorios con un solo comando y crearlo:
+
+  1-mkdir -p Empresa/{Economica/Resumen,Empleados/Resumen,/Saldo/Positivo/Final,Saldo/Negativo/Final}
+  2-mkdir -p Datos/{Personales/Seccion,Personales/Sala/Resumen,Publicos/Imagenes,Publicos/Textos,Publicos/Facturas/Pagadas,Publicos/Facturas/NoPagadas}
+
+
+
+
+
+                   
+
+ 

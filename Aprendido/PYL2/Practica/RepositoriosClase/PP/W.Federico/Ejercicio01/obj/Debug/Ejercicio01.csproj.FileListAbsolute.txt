@@ -1,0 +1,14 @@
+C:\Users\Shuarz\source\repos\Wahler.Federico\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\Users\Shuarz\source\repos\Wahler.Federico\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\Shuarz\source\repos\Wahler.Federico\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\Shuarz\source\repos\Wahler.Federico\Ejercicio01\obj\Debug\Ejercicio01.csprojAssemblyReference.cache
+C:\Users\Shuarz\source\repos\Wahler.Federico\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\source\repos\Wahler.Federico\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\Shuarz\source\repos\Wahler.Federico\Ejercicio01\obj\Debug\Ejercicio01.pdb
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Ejercicio01\bin\Debug\Ejercicio01.exe
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Ejercicio01\bin\Debug\Ejercicio01.pdb
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Ejercicio01\obj\Debug\Ejercicio01.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Ejercicio01\obj\Debug\Ejercicio01.exe
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\W.Federico\Ejercicio01\obj\Debug\Ejercicio01.pdb

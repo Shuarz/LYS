@@ -1,0 +1,6 @@
+drwxr-xr-x  5 root   root      4096 sep 10 04:17 htdocs
+
+
+esos eran los permisos que tenia antes la carpeta, tenelos por las dudas
+
+para crear el archivo, usaste el comando touch y al lado el nombre del archivo mas el tipo

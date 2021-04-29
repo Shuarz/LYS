@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1537724456 source:c:\users\lucÍa\desktop\abm\abm\abmalumnos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesAlumnos.h"
+
+1537726001 c:\users\lucÍa\desktop\abm\abm\abmalumnos\funcionesalumnos.h
+
+1537726108 source:c:\users\lucÍa\desktop\abm\abm\abmalumnos\funcionesalumnos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAlumnos.h"
+
+1537768662 source:c:\users\fernando\desktop\abm\abmalumnos\funcionesalumnos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAlumnos.h"
+
+1537768669 c:\users\fernando\desktop\abm\abmalumnos\funcionesalumnos.h
+
+1537768716 source:c:\users\fernando\desktop\abm\abmalumnos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesAlumnos.h"
+

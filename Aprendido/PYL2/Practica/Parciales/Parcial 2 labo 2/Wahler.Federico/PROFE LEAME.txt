@@ -1,0 +1,3 @@
+Hola profe, en el boton 6 que hay que configurar el SqlConnection, mi path es localhost\MSSQLSERVER01 
+(windows lo puso asi por defecto, si lo quiero cambiar rompe, solo se lo aclaraba para cuando lo corra usted desde su pc)
+Desde ya muchas gracias por tomarse el tiempo de leer, saludos.

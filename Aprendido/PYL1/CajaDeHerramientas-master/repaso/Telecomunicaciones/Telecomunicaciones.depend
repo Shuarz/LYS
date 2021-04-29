@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1544011718 source:c:\users\alumno\desktop\telecomunicaciones\abono.c
+
+1544014826 source:c:\users\alumno\desktop\telecomunicaciones\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1544014785 c:\users\alumno\desktop\telecomunicaciones\cliente.h
+
+1544015932 source:c:\users\alumno\desktop\telecomunicaciones\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"LinkedList.h"
+	"cliente.h"
+
+1544015011 c:\users\alumno\desktop\telecomunicaciones\controller.h
+	"LinkedList.h"
+
+1544011467 c:\users\alumno\desktop\telecomunicaciones\linkedlist.h
+
+1544011558 source:c:\users\alumno\desktop\telecomunicaciones\ingresodatos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresoDatos.h"
+	"validaciones.h"
+
+1544011558 c:\users\alumno\desktop\telecomunicaciones\ingresodatos.h
+
+1544011558 c:\users\alumno\desktop\telecomunicaciones\validaciones.h
+
+1544014436 source:c:\users\alumno\desktop\telecomunicaciones\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1544011558 source:c:\users\alumno\desktop\telecomunicaciones\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1544014524 source:c:\users\alumno\desktop\telecomunicaciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+
+1544018838 source:d:\users\usuario\descargas\repaso\telecomunicaciones\abono.c
+	<stdio.h>
+	<stdlib.h>
+
+1544018838 source:d:\users\usuario\descargas\repaso\telecomunicaciones\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1544018838 d:\users\usuario\descargas\repaso\telecomunicaciones\cliente.h
+
+1544018838 source:d:\users\usuario\descargas\repaso\telecomunicaciones\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"LinkedList.h"
+	"cliente.h"
+
+1544018838 d:\users\usuario\descargas\repaso\telecomunicaciones\controller.h
+	"LinkedList.h"
+
+1544018838 d:\users\usuario\descargas\repaso\telecomunicaciones\linkedlist.h
+
+1544018838 source:d:\users\usuario\descargas\repaso\telecomunicaciones\ingresodatos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresoDatos.h"
+	"validaciones.h"
+
+1544018838 d:\users\usuario\descargas\repaso\telecomunicaciones\ingresodatos.h
+
+1544018838 d:\users\usuario\descargas\repaso\telecomunicaciones\validaciones.h
+
+1544018838 source:d:\users\usuario\descargas\repaso\telecomunicaciones\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1544018838 source:d:\users\usuario\descargas\repaso\telecomunicaciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+
+1544018838 source:d:\users\usuario\descargas\repaso\telecomunicaciones\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+

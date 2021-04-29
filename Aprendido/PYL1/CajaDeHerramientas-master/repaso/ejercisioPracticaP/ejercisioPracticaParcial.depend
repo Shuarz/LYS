@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1542812230 source:c:\users\admin\desktop\ejercisiopracticaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Empleado.h"
+	"utn.h"
+	"Parser.h"
+
+1542741000 c:\users\admin\desktop\ejercisiopracticaparcial\linkedlist.h
+
+1542741000 c:\users\admin\desktop\ejercisiopracticaparcial\controller.h
+
+1542811211 c:\users\admin\desktop\ejercisiopracticaparcial\empleado.h
+
+1542741000 c:\users\admin\desktop\ejercisiopracticaparcial\utn.h
+
+1542741000 c:\users\admin\desktop\ejercisiopracticaparcial\parser.h
+
+1542741000 source:c:\users\admin\desktop\ejercisiopracticaparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Empleado.h"
+	"parser.h"
+	"utn.h"
+
+1542811505 source:c:\users\admin\desktop\ejercisiopracticaparcial\empleado.c
+	"Empleado.h"
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1542741000 source:c:\users\admin\desktop\ejercisiopracticaparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542741000 source:c:\users\admin\desktop\ejercisiopracticaparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Empleado.h"
+
+1542741000 source:c:\users\admin\desktop\ejercisiopracticaparcial\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1544543409 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\testeo\ayuda memoria\ejercisiopracticap\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Empleado.h"
+	"parser.h"
+	"utn.h"
+
+1544543409 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\testeo\ayuda memoria\ejercisiopracticap\linkedlist.h
+
+1544543409 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\testeo\ayuda memoria\ejercisiopracticap\empleado.h
+
+1544543409 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\testeo\ayuda memoria\ejercisiopracticap\parser.h
+
+1544543409 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\testeo\ayuda memoria\ejercisiopracticap\utn.h
+
+1544543409 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\testeo\ayuda memoria\ejercisiopracticap\empleado.c
+	"Empleado.h"
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1544543409 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\testeo\ayuda memoria\ejercisiopracticap\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1544543409 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\testeo\ayuda memoria\ejercisiopracticap\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Empleado.h"
+
+1544543409 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\testeo\ayuda memoria\ejercisiopracticap\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1544543409 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\repaso\ayuda memoria\ejercisiopracticap\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Empleado.h"
+	"parser.h"
+	"utn.h"
+
+1544543409 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\repaso\ayuda memoria\ejercisiopracticap\linkedlist.h
+
+1544543409 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\repaso\ayuda memoria\ejercisiopracticap\empleado.h
+
+1544543409 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\repaso\ayuda memoria\ejercisiopracticap\parser.h
+
+1544543409 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\repaso\ayuda memoria\ejercisiopracticap\utn.h
+
+1544543409 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\repaso\ayuda memoria\ejercisiopracticap\empleado.c
+	"Empleado.h"
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1544543409 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\repaso\ayuda memoria\ejercisiopracticap\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1544556600 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\repaso\ayuda memoria\ejercisiopracticap\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Empleado.h"
+	"utn.h"
+	"Parser.h"
+
+1544543409 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\repaso\ayuda memoria\ejercisiopracticap\controller.h
+
+1544543409 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\repaso\ayuda memoria\ejercisiopracticap\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Empleado.h"
+
+1544543409 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\repaso\ayuda memoria\ejercisiopracticap\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+

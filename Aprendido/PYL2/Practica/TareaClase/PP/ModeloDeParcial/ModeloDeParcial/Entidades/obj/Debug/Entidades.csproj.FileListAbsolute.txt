@@ -1,0 +1,6 @@
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\Entidades\bin\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\Entidades\bin\Debug\Entidades.pdb
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\Entidades\obj\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\Programacion-Laboratorio-II\TareaClase\ModeloDeParcial\ModeloDeParcial\Entidades\obj\Debug\Entidades.pdb

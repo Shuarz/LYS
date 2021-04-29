@@ -1,0 +1,24 @@
+todos los arrays de estrucutura se reciben por ferencia
+el array que delaro en el array de void, es el que va indecsado &listiado.legajo (ejemplo)
+
+
+incializar un ilogico (en -1 y poner un if al momento de mostar)
+
+
+esto en el header.h
+
+int estado
+
+for(i=0; i<A; i++)
+{
+	listadoMain[i].estado=-1;
+}
+
+
+
+german2017 buscarlo ejerccio de vactores
+
+
+
+
+

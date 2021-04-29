@@ -1,0 +1,19 @@
+pasaje de valor: 
+pasaje por rerencia: buscar 
+
+declaramos un punturo con * antes del "int" y la funcion en este caso "y"
+
+ej:
+
+void invrementarValor (int* y)
+{
+(*y)++ esto tambien va con el asterico, para ir a ese lugarde 
+       memoria donde esta guardo la funcion x
+
+
+en el prototipo tambien
+
+void incremenrarValor (int *)
+
+
+step info shift+f7

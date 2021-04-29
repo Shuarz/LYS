@@ -1,0 +1,80 @@
+clase 5 de lab:
+punteros: es una variable, la difrencia es que guarda una direccion de memoria
+para declararlo al puntero, tengo que ponerle un asterisco antes del (int* a), cuando hacemos eso
+nosotros le asignamos el valor
+
+que valor guarda? una direccion de memoria
+
+si ponemos *a	nos lleva al valor de la variable
+
+los vectores trabajan en memoria un estilo pila(van apliando )
+
+variable p (p)=10
+variable q (q)=20
+
+cuando se llama la funcion punteero se declaraban dos variables mas
+
+puntero a (*a):
+la variable b(b):
+
+punteero(&p, q) con el aperson le mando el numero de memoria que tiene para (int a)
+
+punteero(int *a, int b)
+
+{
+	*a=b+5;
+	b=9;
+}
+
+se vuelve al punteero(&p,q) y ahora (p) vale 25 y (q) 20
+(se le dio el valor de (b) A (a) mas 5)	
+
+en el printf se muestra asi
+
+printf("p=%d",p)
+printf("q=%d",q)
+
+----------------------------------------------------------------------------------
+
+VECTORES:
+
+que es un vector? es un conjunto de elementos del mismmo tipo que responden bajo el
+mismo nombre
+
+(1) (2) (3) (4) (5) son variables en un vector con las direciones de memoria
+
+vector: limite inferior es el menor de la direccion de la memoria
+limite supeior es el mayor de la direccion de la memoria	
+
+int vector[5] la cantidad de variables que quiero guardar, en este caso 5 variables
+despues nos guiamos con los subindices
+
+se accede a un indice poniendo:
+ 
+vector[2]=9; (aca guardo en la variable 2, el valor 9) (esto es un subindice)
+
+si lo quiero mostrar: printf("%d",vector[2]); 
+
+el vector guarda la direccion de memoria del primer elemento(lo que seria un punteero), despues al siguiente variante se mueve 
+4 bytes o le que le asgine(si le pongo vector[3], se mueve 4 bytes por 3 posiciones
+(4*3=12 bytes)
+
+
+-----------------------------
+
+si uso #define T 10, pongo eso abajo de include y lo que hace es que T vale 10
+
+
+buscar la carga aleatoria   ---------------------------
+
+vector (metodo del burbujeo)
+
+swap: intercambiar variables
+
+a = c
+b = a
+c = b
+
+
+algoritmo de ordenamiento:
+

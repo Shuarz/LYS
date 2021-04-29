@@ -1,0 +1,118 @@
+                                                       Maquina Virtual
+
+Un microprocesador tiene sumadores siendo procesos matematicos realizados por hardware a gran velocidad
+Desde el software puedo emular todo es comportamiento y emular un hardware que realiza una tarea y me la transforma.
+Para emularlo debe tener software y hardware que me permitan tomar las caracteristicas del hardware en algo virtual.
+Debo tener mas potencia que lo que estoy emulando.
+La arquitectura esta en las intrucciones qe tiene ese procesador , y la velocidad tambien pero si tenemos un buen procesador
+
+Cuando necesito alta velocidad todo lo de un software se pasa a un hardware.
+
+Dispositivo software que antes eran hardware , ejemplo los controladores (driver).
+
+-Memoria de control:
+-Mips: millones de instrucciones por segundo que puede realizar microprocesador , esas se miden por un conjunto de instrucciones
+Y velocidad ,es decir el cerebro y esto define que tipo de mip es (esto es la MEMORIA DE CONTROL);
+
+El procesador tiene tiempo en el que no trabaja y esta todo el tiempo y empieza a trabajar al %100 hay que tener
+un controlador que permite emularlo.
+
+Hipervisor : es un programa que permite la virtualizacion provee el  entorno necesario para la virtualizacion
+
+Dos programas para maquinas virtuales:
+ -Virtual box.
+Otros como KBM , Openvz , xen
+
+
+
+
+Propiedades de virtualizacion:
+
+ *Fiel a lo que esta emulando , es decir exactamente lo mismo (lo virtual tendria que ser igual a lo real).
+  mientras mi hardware sea potente , el rendimiento se mantiene.
+
+  Ejemplo : abro un debian en dos maquinas y ambas tienen que ser lo mismo no cambiar en nada
+
+ *Aislamiento: Lo que uno corre en la aplicacion no tilde la maquina , eso lo permite el framework
+               te puede indicar error de ejecucion pero no se apaga la maquina.
+               -Mi maquina virtual no puede afectar a la que estoy usando , el virtualizador se encargar de emular y 
+                de que eso no pase.
+
+--------------------------------------------------------------------------------------------------
+
+
+ 
+Ventajas virtualizacion:
+
+
+ -Con la virtualizacion puedo achicar espacio, y a empresas ayudan a ahorrarse dinero y tiempo en hardware y en los
+  conocimientos de instalar un sistema operativo.
+  Puedo agregar o quitar disco rigido en tiempo de ejecucion por linea de comando.
+ 
+ -No 
+
+se cae todo el sistema , ejemplo si cae linux puedo redirigir la ejecucion a otra maquina virtual y cargar lo mismo.
+  Mientras se apaga estoy levantando el servicio y no tengo que trabajar obligado a esa maquina que se apago.
+  Ejemplo : en vez de tener 20 maquinas , las pones solo en una y funciona de la misma manera.
+
+ -Testear aplicaciones o hacer guita resumen.
+
+-------------------------------------------------------------------------------------------------------
+
+Dos tipos de Hipervisor:
+
+
+ *Hay uno que puedo instalar(la que utilizamos) es de TIPO 2 porque necesita un sistema operativo para instalar es decir
+  es una APLICACION.Tiene que conocer el sistema operativo y empiez a trabajar como si fuera otro sistema.
+
+ *El otro se instala en el servidor , es decir ya por defecto tiene una maquina virtual que puede tner cualquier maquina
+  es de TIPO 1 , TENGO HARDWARE Y DIRECTAMENTE EL HIPERVISOR , NO ESTA MI SISTEMA OPERATIVO COMO INTERMEDIARIO.	
+
+
+
+La maquina virtual tiene que tener caracteristicas que podemos emular o trasladar:
+
+ *Podemos emular disco rigidod e 8 gb y emularlo , o sino ir dandole de apoco
+  la diferencia es que si lo pongo fijo va a ocupar siempre 8 gb si no lo pongo asi se va a ir agrandando mediante carguemos cosas.
+
+
+
+*Si la queremos hacer de 64 bits , hay que avisarle al microprocesador y hay que habitarlo desde la bios
+
+
+
+
+Modo experto podemos configurar tamaño de la memoria y disco rigido
+El cifrado tien  clave para entrar.
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+Buscar disco rigido:
+  
+ /Dev/       -> Es device
+
+ ls - l /dev/
+
+
+ sd -> satadiscck
+ Cada uno de estos son discos rigidos 
+
+ ls -l /dev/sd*    
+
+ se incrementana partir de 
+ sdb 
+ sdc
+ sdd
+
+
+
+  sd1
+  sd2         Estas son las particiones del disco rigido, pueden tener visibilidad o no.
+  sd5
+
+ 
+ 
+
+ 

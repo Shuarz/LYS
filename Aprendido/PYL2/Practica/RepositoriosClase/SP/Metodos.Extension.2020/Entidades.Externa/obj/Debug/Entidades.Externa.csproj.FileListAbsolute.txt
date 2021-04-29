@@ -1,0 +1,6 @@
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Entidades.Externa\bin\Debug\Entidades.Externa.dll
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Entidades.Externa\bin\Debug\Entidades.Externa.pdb
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Entidades.Externa\obj\Debug\Entidades.Externa.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Entidades.Externa\obj\Debug\Entidades.Externa.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Entidades.Externa\obj\Debug\Entidades.Externa.dll
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Entidades.Externa\obj\Debug\Entidades.Externa.pdb

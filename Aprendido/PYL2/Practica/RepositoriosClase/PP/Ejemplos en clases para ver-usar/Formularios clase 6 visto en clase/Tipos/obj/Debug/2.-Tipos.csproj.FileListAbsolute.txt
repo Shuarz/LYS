@@ -1,0 +1,11 @@
+C:\Users\Maxi\source\repos\Formularios.2020\Tipos\bin\Debug\Tipos.exe.config
+C:\Users\Maxi\source\repos\Formularios.2020\Tipos\bin\Debug\Tipos.exe
+C:\Users\Maxi\source\repos\Formularios.2020\Tipos\bin\Debug\Tipos.pdb
+C:\Users\Maxi\source\repos\Formularios.2020\Tipos\obj\Debug\Tipos.FrmForm.resources
+C:\Users\Maxi\source\repos\Formularios.2020\Tipos\obj\Debug\Tipos.FrmMenu.resources
+C:\Users\Maxi\source\repos\Formularios.2020\Tipos\obj\Debug\Tipos.Properties.Resources.resources
+C:\Users\Maxi\source\repos\Formularios.2020\Tipos\obj\Debug\2.-Tipos.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\Formularios.2020\Tipos\obj\Debug\2.-Tipos.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Formularios.2020\Tipos\obj\Debug\Tipos.exe
+C:\Users\Maxi\source\repos\Formularios.2020\Tipos\obj\Debug\Tipos.pdb
+C:\Users\Maxi\source\repos\Formularios.2020\Tipos\obj\Debug\2.-Tipos.csprojAssemblyReference.cache

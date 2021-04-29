@@ -1,0 +1,6 @@
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Entidades.Externa.Sellada\bin\Debug\Entidades.Externa.Sellada.dll
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Entidades.Externa.Sellada\bin\Debug\Entidades.Externa.Sellada.pdb
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Entidades.Externa.Sellada\obj\Debug\Entidades.Externa.Sellada.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Entidades.Externa.Sellada\obj\Debug\Entidades.Externa.Sellada.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Entidades.Externa.Sellada\obj\Debug\Entidades.Externa.Sellada.dll
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Entidades.Externa.Sellada\obj\Debug\Entidades.Externa.Sellada.pdb

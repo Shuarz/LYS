@@ -1,0 +1,52 @@
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP1 - copia (2) - copia\MiCalculadora\obj\Debug\MiCalculadora.pdb
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\bin\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\bin\Debug\Entidades.pdb
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+O:\Facultad\Laboratorio II\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\bin\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\bin\Debug\Entidades.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb

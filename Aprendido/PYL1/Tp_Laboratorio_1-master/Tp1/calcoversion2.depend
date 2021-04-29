@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1536010231 source:d:\users\usuario\desktop\calco\camelcase\calcoversion2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+
+1536101523 source:d:\users\usuario\desktop\calco\camelcase\calcoversion2\operacionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	"cabecera.h"
+
+1536101524 d:\users\usuario\desktop\calco\camelcase\calcoversion2\cabecera.h
+
+1536117189 source:/home/pi/Desktop/codigos en C/casiEsatamos/camelCase/calcoversion2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"cabecera.h"
+
+1536115409 /home/pi/Desktop/codigos en C/casiEsatamos/camelCase/calcoversion2/cabecera.h
+
+1536115789 source:/home/pi/Desktop/codigos en C/casiEsatamos/camelCase/calcoversion2/operacionesMatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	"cabecera.h"
+
+1536195973 source:/home/pi/Desktop/codigos en C/camelCase/calcoversion2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"cabecera.h"
+
+1536190966 /home/pi/Desktop/codigos en C/camelCase/calcoversion2/cabecera.h
+
+1536196191 source:/home/pi/Desktop/codigos en C/camelCase/calcoversion2/operacionesMatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	"cabecera.h"
+
+1536196322 source:/home/pi/Desktop/codigos en C/Tp_Laboratorio_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	"cabecera.h"
+
+1536190966 /home/pi/Desktop/codigos en C/Tp_Laboratorio_1/cabecera.h
+
+1536196191 source:/home/pi/Desktop/codigos en C/Tp_Laboratorio_1/operacionesMatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	"cabecera.h"
+

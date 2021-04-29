@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1538492396 source:d:\parcial lab 1 rouaux\archivopeliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1538491388 d:\parcial lab 1 rouaux\archivopeliculas\peliculas.h
+
+1538492243 source:d:\parcial lab 1 rouaux\archivopeliculas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1538947948 source:c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"peliculas.h"
+	"directores.h"
+
+1538947876 c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\peliculas.h
+
+1538947877 source:c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"validaciones.h"
+
+1538923407 source:c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\validaciones.c
+
+1538923407 c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\validaciones.h
+
+1538947877 c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\directores.h
+
+1538948066 source:c:\users\sanro\onedrive\escritorio\a\parcial-lab-1\archivopeliculas\directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directores.h"
+	"peliculas.h"
+
+1539010043 source:c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directores.h"
+	"peliculas.h"
+
+1539010043 c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\directores.h
+
+1539009787 c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\peliculas.h
+
+1539010801 source:c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"peliculas.h"
+	"directores.h"
+
+1539011027 source:c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"directores.h"
+
+1538999106 c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\validaciones.h
+
+1538999106 source:c:\users\alumno\desktop\rouaux\parcial-lab-1\archivopeliculas\validaciones.c
+

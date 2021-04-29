@@ -1,0 +1,150 @@
+                                                     CLASE 7
+
+Mem test en los pendrive permitia ver la velocidad que tenia la memoria (cache) y las memorias ram , hay mucha diferencia
+entre estas memorias.
+
+Definicion de memoria : medio que nos permite almacenar informacion  de cualquier tipo que despues pueda pasarla a codigo
+binario , el almacenamiento puede ser electronico o algo fisico(cd , disco).
+
+Dos tipos de acceso:
+
+-Secuencial: nos permite hacer algoritmia de punteros en "c" , yo se que despues de la memoria 39 viene la 40 ,
+despues de una posicion en particular +1 viene la siguiente posicion , puedo encontrar el siguiente elemento con algoritmia aritmetica
+
+
+
+-Aleatorio : nos permite acceder al uno y luego al 100 sin tener que haber atravesado los numeros entre el 1 al 100
+no tiene que hacer algoritmia para llegar al 100 , pasa de uno al otro.Antes eran secuenciales(tecnologia magnetica) se tuvo
+que pasar  a la tecnologia electronica.
+
+Los beneficios que tienen ambas es el costo : ejemplo empresa que almacena los costos de todos los dias 
+o le compro un gran disco rigido(aleatoria) o muchas cintas (secuencial).
+
+A medida que nos acercamos cada vez mas al microprocesador son mas caras debido a tecnologia muy cara, entre mas
+memoria cache mas sale el microprocesador.
+
+De la memoria ram para abajo sale la memoria virtual es decir utilizacion de disco rigido como memoria ram.
+
+
+
+
+********************************************************************************
+Las diferencias entre microprocesadores es la MEMORIA CACHE.
+Porque si tengo una gran memoria puedo tener muchos datos y que funcione rapido.
+********************************************************************************
+
+
+REGISTRO DEL CPU:
+
+ -Velocidad maxima que tenemos , rom de control -> tiene las microinstrucciones que se van a ejecutar es decir es el
+  cerebro de la compu , esta escribe y lee sobre registros los cuales definen la velocidad maxima de nuestra computadora.
+
+ Orden de la memoria:
+ -Registro de la Cpu.
+ -Distintos tipos de memoria cache. 
+ -memoria ram (volatil).
+ -Dispositivo de almacenamiento no volatil (disco rigido , pendrive, cd,tarjeta sd).
+ 
+
+Diferencia entre memorias mas altas(cache ,ram) y bajas(disco rigido , pendrive) : 
+*********************************************************************************
+
+Tamaño , velocidad de acceso , cantidad de memoria(las mas cercanas al procesador
+son muy pocas en bytes) y si yo a una memoria de abajo lo tengo que cambiar es facil , en cambio si tengo que cambiar los registros
+(tengo que ajustar la arquitecutra) o la memoria cache (no se puede).
+
+
+Risc o Sisc , 
+el microprocesador con arquitectura risc siempre y cuando no sea proceso completo
+El sisc es el de las computadores
+El risc es el de los celulares.
+
+Sitema operativo risc os sistema opertivo para raspberry (se utilizaba con los blackberry):
+
+ -Es un sistema abierto  que creo otro kernel el de risc os.
+
+Estas arquitecturas utilizan la memoria dependiendo la rom de control , la rom de control de una risc es mucho mas chica
+que una de sisc.
+
+Memoria Virtual :
+****************
+
+-El costo y el uso para comprar una maquina 
+
+-1ºSi uno se queda sin memoria (ram) acude a otra , si esa se queda sin espacio la compu no anda.Si se queda sin memoria(ram)
+ decide tomar una memoria del disco rigio como si fuera ram , esa memoria es virtual ya que finje ser ram pero es del disco rigido.
+ 
+Particiones disco:
+*****************
+
+En nustro disco rigido haciamos diviciones(particiones , formateamos) que nos marcan direcciones , priemro a donde va a apuntar
+direcciones fat nos permiten tener cuatro particiones primarias(decide cual inicia) y puedo hacer un puntero para redireccionarlo.
+
+El particionamiento de disco : es la distribucion de la memoria asignada es importante ya que es algo que tiene que ser el administrador para que funcione.
+
+
+-Una vez que nuestra memoria secundaria (disco rigido) ya la tenemos divida viene otro procesio que es como guardo los archivos
+ el PROBLEMA ES DECIR CUAL ES EL TAMAÑO MINIMO.De ahi salen las distintas tecnologias fat 16 , fat 32 , ntf.
+ Cuando definimos el sector o el tamaño de un dato definimos de donde hasta donde llega.Esto es cuando formateamos el disco
+
+ Pueden ocurrir varios casos:
+
+  1º Podemos llenar toda una casilla
+  2º Podemos llenar la mitad de una casilla
+  3º Podemos llenar una casilla y media
+  4º podemos tener un archivo en varias casillas no secuenciales por lo cual se dice que esta DESFRAGMENTADO.
+
+  
+
+Los sistemas operativos tiene registros sobre cada uno de los subdirectorios que se van creando (fecha creacion , modificacion , etc).
+
+
+Definicion de formateo:
+
+Nos dan espacio y tenemos que decir en cuantos lugares lo vamos a dividir y cuanto espacio va a tener el tamaño de cada lugar.
+
+-Fdisk es la division.
+-Format cuantos espacion tiene dentro de ese espacio(division).
+
+
+
+
+PROBLEMAS:
+**********
+1ºBACKUP  de la info , y si se me rompe un disco rigido el otro tiene que reemplazarlo , el backup tiene que ser una copia real que ambos tenga lo mismo
+  es decir tener dos disco en espejo , si la probabilidad de que falle un disco es de 10 pongo otro y la probabilidad se reduce a 5.
+  Esto es una estructura llamada RAID.
+
+RAID se hace atravez de hardware o de software .
+Tiene distintos nombres o tipos : 
+
+Raid 0 : 2 particularidades:
+
+ tiene parte de la info en un disco y parte en la otra
+   voy a  tener el doble de capacidad(1000gb) y de velocidad que el raid 1    
+
+Raid 1 (MIRROR) :  ES EL QUE UTILIZA DOS DISCO COMO ESPEJOS , capacidad
+                   (500gb).
+
+
+Raid 5 : Por arriba se comporta como RAID 0 y por abajo como RAID 1.
+
+*********************
+EL RAID NO DIVIDEEEEE
+*********************
+
+cUANTOS DISCO RIGIDOS NECESITO PARA UN DISCO DE 1000GB(EN EL SISTEMA)
+SON 4 DISCOS RIGIDOS DE 500 GB (FISICOS).
+
+
+
+Como ver la memoria que tenemos disponible en la consola.
+
+
+free -m -> nos muestra la memoria libre de la ram
+
+cat/prop/meminfo muestra lo disponible en la memoria ram.
+
+
+
+

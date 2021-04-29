@@ -1,0 +1,10 @@
+C:\Users\Maxi\source\repos\Formularios.2020\CicloDeVida\bin\Debug\CicloDeVida.exe.config
+C:\Users\Maxi\source\repos\Formularios.2020\CicloDeVida\bin\Debug\CicloDeVida.exe
+C:\Users\Maxi\source\repos\Formularios.2020\CicloDeVida\bin\Debug\CicloDeVida.pdb
+C:\Users\Maxi\source\repos\Formularios.2020\CicloDeVida\obj\Debug\1.-CicloDeVida.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Formularios.2020\CicloDeVida\obj\Debug\CicloDeVida.Form1.resources
+C:\Users\Maxi\source\repos\Formularios.2020\CicloDeVida\obj\Debug\CicloDeVida.Properties.Resources.resources
+C:\Users\Maxi\source\repos\Formularios.2020\CicloDeVida\obj\Debug\1.-CicloDeVida.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\Formularios.2020\CicloDeVida\obj\Debug\1.-CicloDeVida.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Formularios.2020\CicloDeVida\obj\Debug\CicloDeVida.exe
+C:\Users\Maxi\source\repos\Formularios.2020\CicloDeVida\obj\Debug\CicloDeVida.pdb

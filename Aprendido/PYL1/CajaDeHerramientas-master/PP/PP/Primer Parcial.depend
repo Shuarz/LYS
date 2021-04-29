@@ -1,0 +1,371 @@
+# depslib dependency file v1.0
+1539015245 source:c:\users\alumno\desktop\nueva carpeta\stuff\primer parcial\primer parcial\directores.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Directores.h"
+
+1539014808 c:\users\alumno\desktop\nueva carpeta\stuff\primer parcial\primer parcial\directores.h
+
+1539009461 source:c:\users\alumno\desktop\nueva carpeta\stuff\primer parcial\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"Directores.h"
+	"MenuDeOpciones.h"
+
+1539009461 c:\users\alumno\desktop\nueva carpeta\stuff\primer parcial\primer parcial\peliculas.h
+
+1539015182 source:c:\users\alumno\desktop\nueva carpeta\stuff\primer parcial\primer parcial\menudeopciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"Directores.h"
+	"MenuDeOpciones.h"
+
+1539012609 source:c:\users\alumno\desktop\nueva carpeta\stuff\primer parcial\primer parcial\peliculas.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Peliculas.h"
+
+1539009461 c:\users\alumno\desktop\nueva carpeta\stuff\primer parcial\primer parcial\menudeopciones.h
+
+1538827280 source:c:\users\alumno\desktop\nueva carpeta\stuff\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1538826362 c:\users\alumno\desktop\nueva carpeta\stuff\utn.h
+
+1538859839 source:c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1538859839 c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\utn.h
+
+1538877621 source:c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer parcial\primer parcial\directores.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Directores.h"
+
+1538871231 c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer parcial\primer parcial\directores.h
+
+1538857445 source:c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer parcial\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"Directores.h"
+	"MenuDeOpciones.h"
+
+1538870710 c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer parcial\primer parcial\peliculas.h
+
+1538857445 c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer parcial\primer parcial\menudeopciones.h
+
+1538867372 source:c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer parcial\primer parcial\peliculas.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Peliculas.h"
+
+1538872509 source:c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer parcial\primer parcial\menudeopciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Peliculas.h"
+	"Directores.h"
+	"MenuDeOpciones.h"
+
+1538857445 source:c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer parcial\primer parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1538857445 c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer parcial\primer parcial\utn.h
+
+1539009461 c:\users\alumno\desktop\nueva carpeta\stuff\primer parcial\primer parcial\utn.h
+
+1539009461 source:c:\users\alumno\desktop\nueva carpeta\stuff\primer parcial\primer parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1543072894 source:d:\nueva carpeta\stuff\primer_parcial\primer parcial\directores.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Directores.h"
+
+1543062121 d:\nueva carpeta\stuff\primer_parcial\primer parcial\utn.h
+
+1543074417 d:\nueva carpeta\stuff\primer_parcial\primer parcial\directores.h
+	"Peliculas.h"
+
+1543072214 source:d:\nueva carpeta\stuff\primer_parcial\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"MenuDeOpciones.h"
+
+1543062121 d:\nueva carpeta\stuff\primer_parcial\primer parcial\peliculas.h
+
+1543062121 d:\nueva carpeta\stuff\primer_parcial\primer parcial\menudeopciones.h
+
+1543072272 source:d:\nueva carpeta\stuff\primer_parcial\primer parcial\menudeopciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Directores.h"
+	"MenuDeOpciones.h"
+
+1543072710 source:d:\nueva carpeta\stuff\primer_parcial\primer parcial\peliculas.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Peliculas.h"
+
+1543062121 source:d:\nueva carpeta\stuff\primer_parcial\primer parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1543697345 source:c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer_parcial\primer parcial\directores.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Directores.h"
+
+1543688735 c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer_parcial\primer parcial\utn.h
+
+1543688735 c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer_parcial\primer parcial\directores.h
+	"Peliculas.h"
+	"Nacionalidad.h"
+
+1543688735 c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer_parcial\primer parcial\peliculas.h
+
+1543688735 source:c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer_parcial\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"MenuDeOpciones.h"
+
+1543688735 c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer_parcial\primer parcial\menudeopciones.h
+
+1543688735 source:c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer_parcial\primer parcial\menudeopciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Directores.h"
+	"MenuDeOpciones.h"
+
+1543688735 source:c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer_parcial\primer parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1543710114 source:c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer_parcial\primer parcial\peliculas.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Peliculas.h"
+
+1543676457 source:c:\users\alumno\desktop\nueva carpeta\stuff\primer_parcial\primer parcial\directores.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Directores.h"
+
+1543666849 c:\users\alumno\desktop\nueva carpeta\stuff\primer_parcial\primer parcial\utn.h
+
+1543676252 c:\users\alumno\desktop\nueva carpeta\stuff\primer_parcial\primer parcial\directores.h
+	"Peliculas.h"
+	"Nacionalidad.h"
+
+1543668255 c:\users\alumno\desktop\nueva carpeta\stuff\primer_parcial\primer parcial\peliculas.h
+
+1543666849 source:c:\users\alumno\desktop\nueva carpeta\stuff\primer_parcial\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"MenuDeOpciones.h"
+
+1543666849 c:\users\alumno\desktop\nueva carpeta\stuff\primer_parcial\primer parcial\menudeopciones.h
+
+1543675225 source:c:\users\alumno\desktop\nueva carpeta\stuff\primer_parcial\primer parcial\peliculas.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Peliculas.h"
+
+1543666849 source:c:\users\alumno\desktop\nueva carpeta\stuff\primer_parcial\primer parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1543676338 source:c:\users\alumno\desktop\nueva carpeta\stuff\primer_parcial\primer parcial\menudeopciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Directores.h"
+	"MenuDeOpciones.h"
+
+1543669955 source:c:\users\alumno\desktop\nueva carpeta\stuff\primer_parcial\primer parcial\nacionalidad.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Nacionalidad.h"
+
+1543669955 c:\users\alumno\desktop\nueva carpeta\stuff\primer_parcial\primer parcial\nacionalidad.h
+
+1543688735 c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer_parcial\primer parcial\nacionalidad.h
+
+1543688735 source:c:\users\martin\desktop\clases programacion y laboratorio 1\stuff\primer_parcial\primer parcial\nacionalidad.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Nacionalidad.h"
+
+1543850457 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\pp\pp\directores.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Directores.h"
+
+1543850457 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\pp\pp\utn.h
+
+1543850457 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\pp\pp\directores.h
+	"Peliculas.h"
+	"Nacionalidad.h"
+
+1543850457 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\pp\pp\peliculas.h
+
+1543850457 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\pp\pp\nacionalidad.h
+
+1543850457 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\pp\pp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"MenuDeOpciones.h"
+
+1543850457 c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\pp\pp\menudeopciones.h
+
+1543850457 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\pp\pp\nacionalidad.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Nacionalidad.h"
+
+1543850457 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\pp\pp\peliculas.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+	"Peliculas.h"
+
+1543850457 source:c:\users\shuarz\desktop\codigos de programacion\cajadeherramientas\pp\pp\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

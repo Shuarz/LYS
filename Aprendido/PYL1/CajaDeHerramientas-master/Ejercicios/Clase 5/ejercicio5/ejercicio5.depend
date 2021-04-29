@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538190227 source:c:\users\shuarz\desktop\codigos de programacion\camelcase\ejercicios\clase 5\ejercicio5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"headerEjer.h"
+
+1538186823 c:\users\shuarz\desktop\codigos de programacion\camelcase\ejercicios\clase 5\ejercicio5\headerejer.h
+

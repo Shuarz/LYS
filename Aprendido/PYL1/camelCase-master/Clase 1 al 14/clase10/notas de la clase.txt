@@ -1,0 +1,14 @@
+ompletar con la baja y la modificacion
+
+
+y la alta 
+
+void inicializarAlumnos(alumnos[], int);  //la funcion puede no devolver nada
+
+
+void inicializarAlumnos(alumnos[], int)
+{
+ //dentro de esta funcion harcodear
+ 
+ float pomecio
+ 

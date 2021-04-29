@@ -1,0 +1,15 @@
+VENDEDORA:
+CANTIDAD: 2
+PRECIO TOTAL: 620
+<--------------------------------------------------------------------------->
+CODIGO DE COMPRA: 1
+PRODUCTO: Notebook
+MARCA: Asus
+PRECIO: 520
+TIPO: Tecnologia
+<--------------------------------------------------------------------------->
+CODIGO DE COMPRA: 2
+PRODUCTO: Teclado
+MARCA: Samsung
+PRECIO: 100
+TIPO: Accesorio

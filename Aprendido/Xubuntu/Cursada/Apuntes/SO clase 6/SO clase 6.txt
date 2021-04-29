@@ -1,0 +1,152 @@
+                                           CLASE 7
+
+
+-Buscar comandos o archivos directamente desde el home , una busqueda especial sobre algo y devuelve informacion
+ de cualquier parte del sistema operativo.
+
+Comandos con respecto a los repositorios de los paquetes:
+
+"npminstall" descarga lo ultimo y el codigo fuente sigue funcionando
+No importa lo que carguemos todo funciona en linux , donde guardo archivos son distintos
+ejemplos carpeta : source y data , tengo que agrupar que voy a guardar en cada carpeta.
+
+Repositorios : no van a estar en mi maquina sino que vana estar en github , voy a tener una carpeta
+que me baja todos los paquetes , esos paquetes pueden tener cualquier cosa , son paquetes que mi
+distro decide utilizar , yo como usuario puedo ejecutar como administrador.
+
+ •Un repositorio es una "bodega" donde se encuentran los paquetes a instalar en cualquier
+  distribución. Por lo general, los repositorios son servidores ftp o http (aunque también pueden
+  ser locales) en donde se encuentran todos los paquetes disponibles para una distribución. Se
+  habla de “paquetes” en vez de “programas”, porque un paquete no necesariamente contiene
+  un programa.
+
+Concepto de repositorio(codigos , que se manejan por paquetes-> pueden ser un programa , varios o lo que sea).
+ PAQUETES Y PROGRAMAS SON DISTINTOS
+
+cada paquete se va a actualizar si el repositorio me dice que hay alguno mejor.
+
+Hay distintos paquetes , los que USAN TODOS(ESTABLE) , los que estan TESTEANDO(para colaborar y dar reporte) , INESTABLE:
+  • Paquetes stable o estables: Consta de software estable y bien probado, y cambia sólo al
+    incorporar correcciones importantes de seguridad.
+  • Paquetes en prueba o testing: Esta área contiene paquetes que se espera que sean
+    parte de la próxima distribución estable. No goza de actualizaciones del equipo de
+    Seguridad en el mismo momento en que salen.
+  • Inestables o unstable: Contiene los paquetes más recientes. Una vez que un paquete
+    ha cumplido las exigencias de estabilidad y calidad de empaquetado, será incluido en
+    testing. Unstable tampoco está soportada por el equipo de seguridad.
+
+
+----------COMANDOS:-----------
+
+El "manejo de los paquetes" esta solucionado en los siguientes comandos que son especificos
+
+  rpm(red hat) 
+
+
+
+  .deb(debian)
+
+
+  apt (utilizar) :
+  •Es el gestor de paquetes que se utiliza en distribuciones
+   
+  
+
+   aptitude(utilizar, es mas completo que el apt)
+
+
+   yum
+
+
+Hay comandos que se ejecutan solos para que se actualizen y no lo tengamos que hacer nosotros, como ejemplo las actualizaciones de aplicaciones
+de android.
+
+
+Ejemplo: quiero instalar java ->busco un .exe para darl doble click y se instale (windows)
+
+En Linux , se descarga un .deb que es un paquete el cual puede ser una libreria , programas , etc,
+Lo voy a tener que instalar (es algo puntual) .
+
+NETBEANS(ide para java) -> lo descargamos de forma fisica desde la pagina
+
+
+
+
+
+Vamos al surlist: 
+
+ esta en etc/apt  (cd ./etc/apt/surlist.)   aca  se encuentra las direcciones http de donde se descargan las actualizaciones  o paquetes
+
+
+
+/var/lib -> Todas las librerias , ejemplo apt , aptitude , epkg , man , bin , sudo
+
+
+ /Var/lib/apt (ls -l)  :aparecen tres archivos
+
+/Var/lib/apt/list -> aparecen 152000 archivos.
+
+
+apt uprgrade : lee el contenido que encontramos (apt etc/surlist) , va al lib/apt y descarga los paquetes , los guarda en el subdirectrio /Var/lib/apt/list.
+
+
+
+apt-get update
+
+apt-get check (solo chequea). -> lee la lista de paquete y dice "hecho" si esta todo bien.
+
+apt-get upgrade (actualizar , los paquetes antes de ejecutar el upgrade tenemos que ejecutar el "update " y el "Check").
+
+TODO ESTO ERA SOLO DE PAQUETES.
+
+
+---------INSTALAR---------
+
+  apt-get install 
+
+  apt-get install mc ->lo actualizamos o instalamos o si ya esta 
+
+  mc (norton comander) -> sirve para interactuar entre directorios.
+  
+  apt-get install --reinstall mc -> -> para reinstalar
+  
+  apt-get remove mc -> Remove el programa ejecutable pero si lo instalo devuvelta las "configuraciones quedan"(a esta no las borran).
+  
+  apt-get --purge remove mc -> remueve el ejecutable y ademas LAS CONFIGURACIONES.
+
+
+
+
+
+  /var/cache/apt/archives   -> SE GUARDAN LOS PAQUETES ,  cuando hacemos apt-update , descarga los paquetes del surlist los pone en archivos y cuando hacemos el upgrade 
+                               instala los archivos. -> con el " apt-get clean " borro los paquetes ( ya que serian solo los instalables).
+ 
+
+   
+  apt-get clean 
+  apt-get autoclean -> detecta que paquete no esta siendo utilizado y lo remueve.
+   
+
+ Netbeans -> vienen con muchas cosas o puedo separarlas , descarga muchas aplicaciones que las uso como "dependencia" es decir si no anda java
+             no puedo hacer netbeans , una vez que desinstalo un programa , debo desinstalar las " dependencias " . queda un link que le dice que ese 
+             programa no esta mas , se usa el apt-get clean auto remove.
+             Si instalo un programa que tiene muchas dependencias , si pongo apt-get -f install mc le agrega las "dependencias".Y luego el
+             apt-get clean auto remove para que elimine tambien las "dependencias".
+
+
+ apt-get clean auto remove
+
+ 
+
+
+
+apt-cache search       busca un paquete (son varios que pueden ser programas , librerias , imagenes ,etc) , lo busca aca /var/lib/apt/lists/.
+
+
+apt-cache  policy mc     da la informacion , de donde esta , donde lo saco , el resultado.
+
+
+apt-cache showpkg mc     la informacion que tra es lo que esta en  /var/lib/apt/lists de ese subdirectorio.
+
+
+

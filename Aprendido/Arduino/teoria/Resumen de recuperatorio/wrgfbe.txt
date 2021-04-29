@@ -1,0 +1,3 @@
+baudio
+
+    Unidad de medida de la velocidad de transmisión de señales que se expresa en símbolos por segundo.

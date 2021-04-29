@@ -1,0 +1,42 @@
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\bin\Debug\Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\obj\Debug\Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\TP04\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Shuarz\Downloads\TP04\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Shuarz\Downloads\TP04\Entidades\bin\Debug\Entidades.dll
+C:\Users\Shuarz\Downloads\TP04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Shuarz\Downloads\TP04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Shuarz\Downloads\TP04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Downloads\TP04\Entidades\obj\Debug\Entidades.dll
+C:\Users\Shuarz\Downloads\TP04\Entidades\obj\Debug\Entidades.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\TP04\Entidades\bin\Debug\Entidades.dll.config
+O:\Facultad\Laboratorio II\TpsLaboratorioII\TP04\Entidades\bin\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\TP04\Entidades\bin\Debug\Entidades.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\TP04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\TP04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\TP04\Entidades\obj\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\TP04\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Shuarz\Desktop\TP04\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Shuarz\Desktop\TP04\Entidades\bin\Debug\Entidades.dll
+C:\Users\Shuarz\Desktop\TP04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Shuarz\Desktop\TP04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Shuarz\Desktop\TP04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Desktop\TP04\Entidades\obj\Debug\Entidades.dll
+C:\Users\Shuarz\Desktop\TP04\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Shuarz\Desktop\Wahler.Federico.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\Entidades\bin\Debug\Entidades.dll.config
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\Entidades\bin\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\Entidades\bin\Debug\Entidades.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\Entidades\obj\Debug\Entidades.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Wahler.Federico.TP4\Entidades\obj\Debug\Entidades.pdb

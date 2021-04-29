@@ -1,0 +1,2 @@
+Hola profesora/profesor. Le queria aclarar que me falto validar, documentar y arreglar la baja, por un tema de tiempo no 
+lo pude hacer el codigo esta vez fue desarrollado en windows, muchas gracias por leer

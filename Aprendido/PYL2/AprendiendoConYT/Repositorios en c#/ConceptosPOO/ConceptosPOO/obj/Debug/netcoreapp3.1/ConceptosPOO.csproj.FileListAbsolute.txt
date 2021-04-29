@@ -1,0 +1,26 @@
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.exe
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.deps.json
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.runtimeconfig.json
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.runtimeconfig.dev.json
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.dll
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.pdb
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.csprojAssemblyReference.cache
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.AssemblyInfoInputs.cache
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.AssemblyInfo.cs
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.dll
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.pdb
+C:\Users\Shuarz\Downloads\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.genruntimeconfig.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.exe
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.deps.json
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.runtimeconfig.json
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.runtimeconfig.dev.json
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.dll
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.pdb
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.csprojAssemblyReference.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.AssemblyInfoInputs.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.AssemblyInfo.cs
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.dll
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.pdb
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\Aprendiendo\Repositorios en c#\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.genruntimeconfig.cache

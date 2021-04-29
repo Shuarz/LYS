@@ -1,0 +1,15 @@
+abm furioso puede ser
+
+
+agregar una funcion para filtrar que?
+
+linkedlist* (devuelve)  ll_filter recieb (linkedlist l,int(devuelve) ,(*funcion)(void*))
+{
+
+
+devuelve 1 o 0
+
+encampusalmos un comprotamiento (sort)
+
+
+hacer un parser (seguro toma eso en el parcial 2)

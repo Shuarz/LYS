@@ -1,0 +1,117 @@
+                                            UNIDAD 2
+
+1-El Kernel es :
+El software que permite la interacción con el hardware 
+El software que administra la comunicación entre programas
+
+2-¿Todos los S.O. tienen intérprete de línea de comandos (consola)?
+Si
+
+3-¿A qué nos referimos con distribución? 
+Conjunto del kernel de Linux + aplicaciones fundamentales+ configuraciones del mismo.
+
+4-¿Cuales de estos son sistemas operativos? 
+windows
+UNIX
+Mac OS
+Ubuntu
+
+5-¿Qué es el GNU? 
+
+
+----------------------------------------------------------------------------------------------------------------------
+                                          UNIDAD 3
+                                                 
+     
+1-¿Cuál es el software de código abierto ?
+linux
+El que muestra su código fuente.
+
+2-¿Cuál es el software Privativo ? 
+Windows
+word
+El que no me permite modificarlo
+El que debo pagar para usarlo
+
+3- ¿Cuales son las libertades del software según el FSF? 
+
+
+
+4-¿Qué es el Copyright?
+
+
+
+5- ¿Existe el copyleft ? 
+
+si.
+
+------------------------------------------------------------------------------------------------------------------------
+                                             CLASE 1
+
+La computadora solo entiende lenguaje maquina con "0 y 1".
+
+Lenguaje de ensamblado , configurar microcontrolador por ASEMBLER para no utlizar "0 y 1"
+la maquina toma ese leguaje y lo traduce en leguaje maquina.
+
+Cada maquina tiene instruccion distinta , lo da el lenguaje de alto nivel, el lenguaje de arriba traduzca el lenguaje
+que yo quiero para que funcionen en cualquier sistema operativo hacer el codigo una sola vez.
+
+
+
+Division de lenguajes COMPILADO e INTERPRETADOS:
+
+Compilado: doy un compilado que ejecuta y se traduce a lenguaje asembler y a lenguaje maquina. 
+
+Interpretado: paso codigo fuente , lo compilan , google chorme hace esto,ejecuta codigo html , javascript,php(lenguajes interpretados)
+ Le paso el texto y cualquier operador lo interpreta y ejecuta (hace ejecucion sobre su codigo fuente es decir hacer todo el proceso de compilado , amebler)
+ sino tiene hardwar como javascript no hace falta tanto problema en la compilacion, se utiliza el microprocesador.
+ Casi siempre es el que se envia a traves de la web.
+ El servidor toma el codigo , lo interpreta y lo ejecuta , pero en alguno casos tambien necesita utilizar asembler.
+
+
+
+SQL Injection: 
+
+ -La inyección SQL es una técnica de inyección de código que podría destruir su base de datos.
+ -La inyección SQL es una de las técnicas más comunes de pirateo web.
+ -La inyección SQL es la colocación de código malicioso en las declaraciones SQL, a través de la entrada de la página web.
+
+
+Sitios intermedios , LENGUAJES INTERPRETADOS-COMPILADOS:
+
+ -Instalar a maquinas java , para que funcione es necesario instalar java , ya esta todo cargado la maquina no va a
+  pesar tanto.
+ -Generar codigo interpretado por alguien que lo compila.
+    *En cambio java script es un lenguaje interpretado por alguien que lo interpreta pero no lo compila, no necesita
+     instancia intermedia para que lo transforme.
+
+
+
+Lenguaje de Programacion , empezaron como matematicos cambiando cables , desde jaquard a parte fisica y depues a parte
+digital.
+Tecnicas se van separando lo mismo que hacian , estandarizando la forma de hacer  cosas , ejemplo hago andar un gps
+ con un algoritmo y lo utilizo para que alguien pueda hacerlo.
+
+-Paradigma , como encarar solucion final desde el principio , y que cambios va a tener y la solucion y tecnicas.
+
+-Programacion estructura (el momento), y programacion orientada a objetos (cambios a futuro) es la mas indicada.
+
+-Patron: Como usa la funcion lo que recibe por parametro.
+
+-Arquitectura del sistema: limita a usar solo ese patron, atraves de interfaz , clase padre ,etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

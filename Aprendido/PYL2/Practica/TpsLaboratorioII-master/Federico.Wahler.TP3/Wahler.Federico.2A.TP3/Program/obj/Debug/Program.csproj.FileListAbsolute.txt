@@ -1,0 +1,64 @@
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\bin\Debug\Program.exe.config
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\bin\Debug\Program.exe
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\bin\Debug\Program.pdb
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\bin\Debug\Archivos.dll
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\bin\Debug\ClasesAbstractas.dll
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\bin\Debug\ClasesInstanciables.dll
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\bin\Debug\Excepciones.dll
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\bin\Debug\Archivos.pdb
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\bin\Debug\Excepciones.pdb
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.exe
+C:\Users\Lucho\source\repos\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.pdb
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\bin\Debug\Program.exe.config
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\bin\Debug\Program.exe
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\bin\Debug\Program.pdb
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\bin\Debug\Archivos.dll
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\bin\Debug\ClasesAbstractas.dll
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\bin\Debug\ClasesInstanciables.dll
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\bin\Debug\Excepciones.dll
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\bin\Debug\Archivos.pdb
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\bin\Debug\Excepciones.pdb
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.exe
+C:\Users\Lucho\Desktop\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.pdb
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\bin\Debug\Program.exe.config
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\bin\Debug\Program.exe
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\bin\Debug\Program.pdb
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\bin\Debug\Archivos.dll
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\bin\Debug\ClasesAbstractas.dll
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\bin\Debug\ClasesInstanciables.dll
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\bin\Debug\Excepciones.dll
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\bin\Debug\Archivos.pdb
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\bin\Debug\ClasesAbstractas.pdb
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\bin\Debug\ClasesInstanciables.pdb
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\bin\Debug\Excepciones.pdb
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.csproj.CopyComplete
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.exe
+O:\Facultad\Laboratorio II\Machete\LAB-PROG-II (este esta completo)\(X) TRABAJOS PRACTICOS\Luciano.Moreno.TP3\Moreno.Luciano.2A.TP3\Program\obj\Debug\Program.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\bin\Debug\Program.exe.config
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\bin\Debug\Program.exe
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\bin\Debug\Program.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\bin\Debug\Archivos.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\bin\Debug\ClasesAbstractas.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\bin\Debug\ClasesInstanciables.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\bin\Debug\Excepciones.dll
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\bin\Debug\Archivos.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\bin\Debug\ClasesAbstractas.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\bin\Debug\ClasesInstanciables.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\bin\Debug\Excepciones.pdb
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\obj\Debug\Program.csprojAssemblyReference.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\obj\Debug\Program.csproj.CopyComplete
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\obj\Debug\Program.exe
+O:\Facultad\Laboratorio II\TpsLaboratorioII\Federico.Wahler.TP3\Wahler.Federico.2A.TP3\Program\obj\Debug\Program.pdb

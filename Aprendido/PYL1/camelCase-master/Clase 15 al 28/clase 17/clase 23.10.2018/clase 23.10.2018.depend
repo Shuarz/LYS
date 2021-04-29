@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1540298816 source:c:\users\ezequ\desktop\ordenamiento\clase 23.10.2018\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1540306298 source:c:\users\ezequ\desktop\ordenamiento\clase 23.10.2018\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblio.h"
+
+1540306298 c:\users\ezequ\desktop\ordenamiento\clase 23.10.2018\biblio.h
+
+1540399664 source:d:\users\usuario\desktop\camelcase\clase 15 al (...)\clase 17\clase 23.10.2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblio.h"
+
+1540399664 d:\users\usuario\desktop\camelcase\clase 15 al (...)\clase 17\clase 23.10.2018\biblio.h
+

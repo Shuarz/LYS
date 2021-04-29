@@ -1,0 +1,15 @@
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\bin\Debug\Test.exe.config
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\bin\Debug\Test.exe
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\bin\Debug\Test.pdb
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\bin\Debug\Entidades.dll
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\bin\Debug\Entidades.Externa.dll
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\bin\Debug\Entidades.Externa.Sellada.dll
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\bin\Debug\Entidades.Externa.Sellada.pdb
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\bin\Debug\Entidades.Externa.pdb
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\bin\Debug\Entidades.pdb
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\obj\Debug\Test.exe
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\obj\Debug\Test.pdb
+C:\Users\Maxi\source\repos\Metodos.Extension.2020\Test\bin\Debug\Eventos.Entidades.dll

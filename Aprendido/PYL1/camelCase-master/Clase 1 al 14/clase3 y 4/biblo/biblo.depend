@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1535983827 source:c:\users\alumno\desktop\clase 5\camelcase\biblo\bibloteca2.c
+	"bibloteca2.h"
+	<stdio.h>
+
+1535984246 c:\users\alumno\desktop\clase 5\camelcase\biblo\bibloteca2.h
+
+1535984109 source:c:\users\alumno\desktop\clase 5\camelcase\biblo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bibloteca2.h"
+

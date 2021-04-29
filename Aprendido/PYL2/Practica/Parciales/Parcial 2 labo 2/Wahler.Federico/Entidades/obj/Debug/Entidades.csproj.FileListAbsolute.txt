@@ -1,0 +1,18 @@
+C:\Users\serdo\Desktop\SP.LabII.2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\serdo\Desktop\SP.LabII.2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\serdo\Desktop\SP.LabII.2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\serdo\Desktop\SP.LabII.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\serdo\Desktop\SP.LabII.2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\serdo\Desktop\SP.LabII.2020\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Shuarz\Downloads\parcial 2 machetes\sergio parcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Shuarz\Downloads\parcial 2 machetes\sergio parcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Shuarz\Downloads\parcial 2 machetes\sergio parcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Shuarz\Downloads\parcial 2 machetes\sergio parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Downloads\parcial 2 machetes\sergio parcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Shuarz\Downloads\parcial 2 machetes\sergio parcial\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Shuarz\Desktop\sergio parcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Shuarz\Desktop\sergio parcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Shuarz\Desktop\sergio parcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Shuarz\Desktop\sergio parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Desktop\sergio parcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Shuarz\Desktop\sergio parcial\Entidades\obj\Debug\Entidades.pdb

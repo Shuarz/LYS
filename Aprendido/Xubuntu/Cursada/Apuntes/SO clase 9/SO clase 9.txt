@@ -1,0 +1,74 @@
+                                           CLASE 9
+
+Iniciamos master en github , lo que tendria que tener en cada commit es una funcionalidad definida
+que se plantea al inicio del commit es como un prototipo , en EL MASTER SIEMPRE LO VOY A TENER FUNCIONANDO
+ES LO QUE YO LE VOY A IR MOSTRANDO AL CLIENTE DURANTE TODO EL PROCESO -> PARTE LOGICA
+
+-Puedo tener un BRANCH "DEV UI" (desallorro user interface)
+-Puedo tener un BRANCH "DEV UITest" (hago el test del anterior)
+-Puedo tener BRANCH "Test" y dentro otros branch
+
+La idea es que "cualquier hilo" puede sacar otra dependencia por si salen actualizaciones etc.
+
+
+
+Ejemplo :
+1º Creo repositorio , lo clono y le subo un archivo al master
+2º Le doy permisos a otra persona para que pueda subir cosas
+3º La otra persona  crea rama , y le sube cosas
+4º yo desde mi archivo solo tengo el master y no puedo ver lo que la otra persona subio
+  entonces hago un git pull origin "nombre de rama"
+5º hago git checkout "nombre de rama" y ahora puedo pararme y ver lo que mi otro usuario subio es decir la rama.
+6º Me paro en el master hago un merge a la rama de mi usuario 
+7º git push origin master y ya mezclo lo de la rama junto con mi master y listo ya se sube
+
+
+
+                                                  PROCESOS
+
+Funcion recibia parametros y los procesos no , eso era antes solo procesos o funciones
+Los procesos eran autonomos y la forma de crearlo era como el ejemplo de zombi o nozombie
+
+1ºEjecuta BIOS : la compu hace una verificacion de todos las entradas y salidas que tiene
+  si falla algo empieza a hacer "pitidos".Es decir un pequeño software en la memoria
+  que lee para leer el hardware
+
+2ºBootloader , todos los sitemas operativos necesitan un punto de inicio  
+  Definimos las posiciones de que arranca primero , te muestra el grub y ahi
+  uno elige para ver cual SISTEMA OPERATIVO VA A CARGAR.
+
+ En linux manejamos el sistema de arrancque con el "grub"
+ -El grub es una archivo que tiene una configuracion que que es lo que se levanta
+  son series de configuraciones que me van a permitir levantar sistema operativo
+    
+
+ -En windows MBR toma la posicion del disco rigido como arranque
+
+3º Empezamos a cargar el kernel
+  
+ -En linux va a depender del tipo que sea , el bootloader dice a que kernel de que sistema
+  va a cargar , solo el bootloader indica donde esta la funcionalidad que va a cargar.
+  El kernel va a cargar tanto los DRIVERS como la configuracion para esa version
+
+4ºINIT -> ES EL PRIMER PROCESO QUE VA A ESTAR EN NUESTRA MEMORIA
+   lo que se hace es la "PLANIFICACION DE LOS PROCESOS"
+
+   -Hay procesos que se llaman "demons"porque corren solos y estan haciendo algo
+    por ejemplo el que va cambiando la fecha
+   -Hay procesos que los inicio
+   -Es el proceso que se ejecuta al inicio y que controla todo , es el "proceso Padre
+    de todos los procesos" , cuando generamos un proceso necesita un procesos
+   -El init es el proceso padre y tiene como numero de proceso el "1" o e "0".
+   -Si podemos matar este proceso se muere todo
+    
+
+
+comandos: 
+ ps aux  -> nos muestra que el init esta al principio de todo en la carpeta "sbin"
+ 
+ htop
+
+
+
+
+

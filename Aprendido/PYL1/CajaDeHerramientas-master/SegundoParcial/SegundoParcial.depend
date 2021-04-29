@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1543238157 source:d:\parcial wah\cajadeherramientas\segundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Empleado.h"
+	"parser.h"
+	"utn.h"
+
+1543237902 d:\parcial wah\cajadeherramientas\segundoparcial\linkedlist.h
+
+1543235680 d:\parcial wah\cajadeherramientas\segundoparcial\empleado.h
+
+1543237993 d:\parcial wah\cajadeherramientas\segundoparcial\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+	"utn.h"
+
+1543235842 d:\parcial wah\cajadeherramientas\segundoparcial\utn.h
+
+1543235660 source:d:\parcial wah\cajadeherramientas\segundoparcial\empleado.c
+	"Empleado.h"
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1543237853 source:d:\parcial wah\cajadeherramientas\segundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1543238293 source:d:\parcial wah\cajadeherramientas\segundoparcial\parser.c
+	"Parser.h"
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+
+1543235824 source:d:\parcial wah\cajadeherramientas\segundoparcial\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1543238318 source:d:\parcial wah\cajadeherramientas\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Empleado.h"
+	"utn.h"
+	"Parser.h"
+
+1543237782 d:\parcial wah\cajadeherramientas\segundoparcial\controller.h
+

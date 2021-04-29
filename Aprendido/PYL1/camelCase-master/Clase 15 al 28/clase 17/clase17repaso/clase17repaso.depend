@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1540301135 source:c:\users\alumno\desktop\camelcase\clase 15 al (...)\clase 17\clase17repaso\funcrepaso.c
+	<stdio.h>
+	<stdlib.h>
+	"biblorepaso.h"
+
+1540300671 c:\users\alumno\desktop\camelcase\clase 15 al (...)\clase 17\clase17repaso\biblorepaso.h
+
+1540307204 source:c:\users\alumno\desktop\camelcase\clase 15 al (...)\clase 17\clase17repaso\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblorepaso.h"
+

@@ -1,0 +1,97 @@
+﻿
+1º  Descargamos el xampp , tambien se puede hacer directamente desde la pagina:
+
+   
+ 
+    wget https://downloadsapachefriends.global.ssl.fastly.net/xampp-files/7.1.8/xampp-linux-x64-7.1.8-0-installer.run?from_af=true
+
+
+
+2º Le damos permisos para poder ejecutarlo : 
+   
+   
+
+   chmod 0777  https://downloadsapachefriends.global.ssl.fastly.net/xampp-files/7.1.8/xampp-linux-x64-7.1.8-0-installer.run?from_af=true
+ 
+    
+
+ 
+
+
+
+3º Ejecutamos y lo instalamos
+
+
+: 
+
+   Me pidio igual convertirme en SUPER USUARIO (sudo su) para poder ejecutarlo
+ 
+  ./ https://downloadsapachefriends.global.ssl.fastly.net/xampp-files/7.1.8/xampp-linux-x64-7.1.8-0-installer.run?from_af=true
+ 
+   
+ 
+ 
+4º Validamos la instalacion llendo a http://localhost/
+
+
+
+
+5º Una vez instalado el xampp procedemos a descargar el zip de onecloud con :
+
+  
+
+   wget https://download.owncloud.org/community/owncloud-10.0.2.zip
+
+ 
+
+6º Procedemos a desmontar el zip : 
+  
+  
+
+    unzip owncloud-10.0.2.zip 
+
+
+
+7º Copiamos el directorio "owncloud" (extraido) dentro de /opt/lampp/htdocs.
+
+ 
+
+   sudo cp -r owncloud /opt/lampp/htdocs/
+
+
+
+
+8º Configuramos nuestro virtual host creando el archivo httpd-owncloud.conf, dentro del directorio /opt/lampp/etc/extra.
+
+  
+9º Dar permiso de "escritura " a /opt/lampp  (lo hacemos de manera recursiva) Esto hará posible la ejecución de la instalación utilizando la interfaz gráfica web  :
+
+
+ 
+  sudo chmod 777 lamp/ -R
+
+10º Abrimos la web de instalación, desde el navegador acceder a http://localhost/owncloud 
+
+
+ y nos registramos
+
+*******************************************HASTA ACA ES TODO LO DEL PDF****************************************
+
+11° Ahora lo que hacemos es apagar la maquina y configurar la red como "adaptador puente"
+
+12° Ejecutamos en la consola el comando "ifconfig" para saber nuestra "ip" es la que esta al lado de "inet"
+
+13° Copiamos esa ip , nos dirigimos a /opt/lampp/htdocs/owncloud/config  y ahi adentro editamos el archivo "config.php"
+    abrimos config.php con nano y en la parte que dice "localhost" debajo le pegamos la "ip" que copiamos y lo guardamos.
+
+14° Entrar desde internet a la siguiente direccion :  "nuestra ip"/owncloud , ejemplo :  192.158.0.15/owncloud
+    y ya podremos acceder a la pagina de owncloud que creamos .
+
+15 ° Para comprobar que esto funciona podemos ingresar a la direccion nombrada en el paso 14 desde cualquier otro dispositivo
+     que este conectado a la misma red , es decir que por ejemplo sean ambos conectados por el mismo "wifi" ya sea un celular , una notbook , etc.
+     Si nos permite entrar sin ningun problema ya esta finalizado.
+
+***************************************************************************************************
+Si apagamos la maquina para volver a correrla tenemos que ejecutar el comando /opt/lampp/lampp start
+Lo cual inicializa el xampp.
+***************************************************************************************************

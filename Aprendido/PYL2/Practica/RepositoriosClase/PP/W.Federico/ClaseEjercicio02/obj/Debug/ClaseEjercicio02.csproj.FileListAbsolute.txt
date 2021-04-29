@@ -1,0 +1,7 @@
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\WFederico\ClaseEjercicio02\bin\Debug\ClaseEjercicio02.exe.config
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\WFederico\ClaseEjercicio02\bin\Debug\ClaseEjercicio02.exe
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\WFederico\ClaseEjercicio02\bin\Debug\ClaseEjercicio02.pdb
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\WFederico\ClaseEjercicio02\obj\Debug\ClaseEjercicio02.csprojAssemblyReference.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\WFederico\ClaseEjercicio02\obj\Debug\ClaseEjercicio02.csproj.CoreCompileInputs.cache
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\WFederico\ClaseEjercicio02\obj\Debug\ClaseEjercicio02.exe
+C:\Users\Shuarz\Downloads\Facultad\Laboratorio II\Programacion-Laboratorio-II\RepositoriosClase\WFederico\ClaseEjercicio02\obj\Debug\ClaseEjercicio02.pdb

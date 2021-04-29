@@ -1,0 +1,21 @@
+segmento de memoria
+estatico
+monton
+
+pila
+
+
+GDH
+
+FUNCION MALLOc
+
+devuelve un puntero a void
+
+malloc(5) guarda la cantidad de bytes que uno le pida
+
+realloc redifine un espacio de memoria
+
+
+pedir 5, mostrar otros 5 tarea hecha en la estructura
+
+el ejerccio de inicia de clases pero con malloc

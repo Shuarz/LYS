@@ -1,0 +1,11 @@
+C:\Users\Shuarz\Desktop\Proyectos\c#\ProyectoUno\ProyectoUno\bin\Debug\netcoreapp3.1\ProyectoUno.exe
+C:\Users\Shuarz\Desktop\Proyectos\c#\ProyectoUno\ProyectoUno\bin\Debug\netcoreapp3.1\ProyectoUno.deps.json
+C:\Users\Shuarz\Desktop\Proyectos\c#\ProyectoUno\ProyectoUno\bin\Debug\netcoreapp3.1\ProyectoUno.runtimeconfig.json
+C:\Users\Shuarz\Desktop\Proyectos\c#\ProyectoUno\ProyectoUno\bin\Debug\netcoreapp3.1\ProyectoUno.runtimeconfig.dev.json
+C:\Users\Shuarz\Desktop\Proyectos\c#\ProyectoUno\ProyectoUno\bin\Debug\netcoreapp3.1\ProyectoUno.dll
+C:\Users\Shuarz\Desktop\Proyectos\c#\ProyectoUno\ProyectoUno\bin\Debug\netcoreapp3.1\ProyectoUno.pdb
+C:\Users\Shuarz\Desktop\Proyectos\c#\ProyectoUno\ProyectoUno\obj\Debug\netcoreapp3.1\ProyectoUno.csprojAssemblyReference.cache
+C:\Users\Shuarz\Desktop\Proyectos\c#\ProyectoUno\ProyectoUno\obj\Debug\netcoreapp3.1\ProyectoUno.AssemblyInfoInputs.cache
+C:\Users\Shuarz\Desktop\Proyectos\c#\ProyectoUno\ProyectoUno\obj\Debug\netcoreapp3.1\ProyectoUno.AssemblyInfo.cs
+C:\Users\Shuarz\Desktop\Proyectos\c#\ProyectoUno\ProyectoUno\obj\Debug\netcoreapp3.1\ProyectoUno.dll
+C:\Users\Shuarz\Desktop\Proyectos\c#\ProyectoUno\ProyectoUno\obj\Debug\netcoreapp3.1\ProyectoUno.pdb

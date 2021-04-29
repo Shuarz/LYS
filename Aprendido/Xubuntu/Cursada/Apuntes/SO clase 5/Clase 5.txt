@@ -1,0 +1,112 @@
+Discos de 5 , 6 y 7
+el de 5 se divide en 2 y 3
+el de 6 se divide en 4
+el de 7 se divide en 2 , 3 ,1
+
+
+LVM -> comando que permite unir disco rigidos y se agregan mas gigas a donde tengo montado el disco
+       Permite manipular discos rigidos de manera logica como si fueran fisicos y pueden ser redimensionados .
+
+
+SUBDIRECTORIOS (dev , root ) :
+-Saber para que sirve cada subdirectorio y diferencias entre compartidos y no compartidos
+ entre estaticos y dinamicos.
+-Algunos podemos manipularlos como usuarios y otros como nada, algunos podemos modificar pero cambian automaticamente
+ ejemplo los datos de la memoria ram , pero podemos modifcar tree o ls.
+-Puedo editar la consola para editar lo que se muestra .
+-En linux todo pasa a ser un archivo , un disco rigido , lo que sea, tengo que saber cual es el subdirectorio que contiene
+ los archivos.
+
+
+
+
+
+Subdirectorios Compartidos(cualquiera puede editar) y No Nompartidos:
+
+ *se diferencian , para que sea compartido cambio el accesor o agrego al usuario para que tenga permiso a ingresar,
+  cuando generamos el subdirectorio puede ser compartido o no compartidoal mismo momento.
+  
+
+
+Subdirectorios Dinamicos(van cambiando constantemente) y Estaticos (bibliotecas), estos pueden ser Compartidos o No Compartidos:
+
+  *Los estaticos solo cambian cuando el administrador quiere que cambien y no cambia con frecuencia.
+
+    Ejemplos : el BIN (tiene los binarios , programas que vamos a ejecutar) esta en el root, hay otro bin Usr/Bin que esta en el user
+    Ejemplo : opt
+    Ejemplo : boot(esta todo lo que se ejecuta en el arranca esta el grub y se puede elegir al sistema operativo que comienze).
+   
+ *Dinamicos : 
+   Ejemplo : var (desde las conexiones todo los temporales va a estar en el var y tengo registro de todo lo que va pasando, tiene info de todo lo que sucede todo el tiempo)
+   Ejemplo:   ETC ( SE ENCUENTRAN TODOS LOS ARCHIVOS DE CONFIGURACION . -> ETC/ OPT).
+  
+   Ejemplo :En MEDIA , SE GUARDAN LOS PUNTOS DE MONTAJE ( ESDECIR LO QUE NOSOTROS CREAMOS).
+
+   Ejemplo :Proc  tiene todo lo que pasa en el sistema y se actualiza constantemente, todos los procesos tiene
+   Ejemplo : tmp -> temporales
+
+
+ Tres tipos de archivo:
+ -ARCHIVO COMUN : es todo (fotos,video,musica) los diferencia los atributos pero nunca la extension.
+ -Archivo directorio : permite contener otros archivos u otros subdirectorios.
+ -Archivo especiales : permite conectarse con el hardware.
+
+ Se pueden tener hasta 255 caracteres (8bytes) , es keysensitive , inodos y enlaces
+ *El inodo es la representacion y la relacion se crea con el nombre , LN saludar.txt otro.txt (permite crear una copia del otro)
+  con el LN cuando modifico un archivo modifico al otro porque son el mismo archivo.Lo que hacemos son referenciar el nombre con un inodo ,
+  permite que dos archivos apunten
+  al mismo , fisicamente es uno solo.Es como un puntero que es la posicion de memoria donde esta.
+  Si borro saludar.txt , otro.txt sigue funcionando.Enlace fisico.
+
+ *ln -s otro.txt nuevo.txt , si modificamos nuevo txt es lo mismo , si borramos otro.txt , nuevo.txt existe pero tiene el enlace roto , nuevo.txt era acceso directo a otro.tx
+  no era acceso directo al inodo, el "-s" permite eso para que sea simbolico y no fisico , es cuando tengo archivos creados en mi maquina. Estan siempre conectados de manera 
+  logica a traves del nombre.
+
+
+
+
+ 
+Archivos crear y descomprimir:
+
+ -Archivo.txt <   "     "
+ -Foto.jpg <    "       "
+ -Base.dat <  "        "
+
+Para comprimir : 
+ -TAR ->tiene parametros para comprimir (-c) y  (-cf)
+   Ejemplo : tar -cf backup archivo.txt foto.jpg base.dat 
+            backup ese el nombre que le definimos al archivo.
+
+- tar -tf     para verlo el rar
+  Ejemplo: 
+      tar -tf backup.
+
+
+sudo tar cvf backup.tgz --totals alumno
+-permite comprimir un archivo del formato que quiera.
+ 
+
+
+--------Permisos--------
+
+
+ETC: 
+
+LOS PERMISOS , SE PUEDE EJECUTAR , LEER O ESCRIBIR (REGLA DE 3) , puedo modificar si solo puede verlo alguien o modificarlo o lo que sea.
+-Diferencia entre ejecutable (no hace nada en cambio lo de adentro)
+ Para que un archivo sea ejecutable le cambiamos los permisos para que sea ejecutable. 
+
+  Creamos nuestro ejecutable llamado Ejecutor << "echo hola a todos".
+
+ x = ejecutable 
+ r= read
+
+CHMOD PERMITE CAMBIAR PERMISOS.
+
+ SUDO CHMOD 754 ejecutor -> le cambia los permisos al ejecutory de quien puede verlo , escribirlo o ejecutarlo
+
+
+
+
+ 
+ 
